@@ -1,0 +1,5042 @@
+{
+  "metadata": {
+    "source_pdf": "Scan documents20261016_015106.pdf",
+    "title": "Introduction to Industry 4.0 and Industrial Internet of Things",
+    "total_pages": 12,
+    "total_questions": 180,
+    "page_question_counts": {
+      "Page 1": 15,
+      "Page 2": 15,
+      "Page 3": 15,
+      "Page 4": 15,
+      "Page 5": 15,
+      "Page 6": 15,
+      "Page 7": 15,
+      "Page 8": 15,
+      "Page 9": 15,
+      "Page 10": 15,
+      "Page 11": 15,
+      "Page 12": 15
+    },
+    "verified_answers_count": 180,
+    "needs_review_count": 1
+  },
+  "questions": [
+    {
+      "id": "q001",
+      "page_number": 1,
+      "original_question_number": 1,
+      "question_text": "Which sensor can detect gases like LPG, CH4, and",
+      "options": [
+        {
+          "id": "A",
+          "text": "DHT22"
+        },
+        {
+          "id": "B",
+          "text": "MQ-5"
+        },
+        {
+          "id": "C",
+          "text": "HC-SR04"
+        },
+        {
+          "id": "D",
+          "text": "PIR"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q002",
+      "page_number": 1,
+      "original_question_number": 2,
+      "question_text": "Which modulation scheme does Zigbee use for the 2.4 GHz band?",
+      "options": [
+        {
+          "id": "A",
+          "text": "BPSK"
+        },
+        {
+          "id": "B",
+          "text": "QPSK"
+        },
+        {
+          "id": "C",
+          "text": "OQPSK"
+        },
+        {
+          "id": "D",
+          "text": "FSK"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q003",
+      "page_number": 1,
+      "original_question_number": 3,
+      "question_text": "What does the Constrained RESTful Environments (CoRE) framework include for service discovery?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Registration Interface (RI)"
+        },
+        {
+          "id": "B",
+          "text": "Resource Directory (RD)"
+        },
+        {
+          "id": "C",
+          "text": "REST based protocols such as HTTP and CoAP"
+        },
+        {
+          "id": "D",
+          "text": "All of the above"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q004",
+      "page_number": 1,
+      "original_question_number": 4,
+      "question_text": "What is the maximum data rate of Z-Wave communication technology?",
+      "options": [
+        {
+          "id": "A",
+          "text": "100 kbps"
+        },
+        {
+          "id": "B",
+          "text": "250 kbps"
+        },
+        {
+          "id": "C",
+          "text": "500 kbps"
+        },
+        {
+          "id": "D",
+          "text": "1 Mbps"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q005",
+      "page_number": 1,
+      "original_question_number": 5,
+      "question_text": "Which protocol is CoAP based on?",
+      "options": [
+        {
+          "id": "A",
+          "text": "TCP"
+        },
+        {
+          "id": "B",
+          "text": "FTp"
+        },
+        {
+          "id": "C",
+          "text": "UDP"
+        },
+        {
+          "id": "D",
+          "text": "HTTP"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q006",
+      "page_number": 1,
+      "original_question_number": 6,
+      "question_text": "Which coding scheme is used by the IEEE 802.15.4 standard for transmitting information?",
+      "options": [
+        {
+          "id": "A",
+          "text": "CSS"
+        },
+        {
+          "id": "B",
+          "text": "THSS"
+        },
+        {
+          "id": "C",
+          "text": "OFDM"
+        },
+        {
+          "id": "D",
+          "text": "Dsss"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q007",
+      "page_number": 1,
+      "original_question_number": 7,
+      "question_text": "What does 'Range' indicate in a sensor?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The correctness of the output"
+        },
+        {
+          "id": "B",
+          "text": "The smallest change in input that can be detected"
+        },
+        {
+          "id": "C",
+          "text": "The difference between the standard value and the value produced by the sensor"
+        },
+        {
+          "id": "D",
+          "text": "The highest and the lowest value of the physical quantity within which the sensor can actually sense"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q008",
+      "page_number": 1,
+      "original_question_number": 8,
+      "question_text": "Which organization has developed the ISA 100.11a standard?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Instrument Society of America"
+        },
+        {
+          "id": "B",
+          "text": "International Society of Automation"
+        },
+        {
+          "id": "C",
+          "text": "International Studies Association"
+        },
+        {
+          "id": "D",
+          "text": "International Solar Alliance"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q009",
+      "page_number": 1,
+      "original_question_number": 9,
+      "question_text": "Which of the following is/are the drawbacks of proprietary non-lP-based solutions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Limited flexibility to end users"
+        },
+        {
+          "id": "B",
+          "text": "Interoperability"
+        },
+        {
+          "id": "C",
+          "text": "Limited last-mile connectivity"
+        },
+        {
+          "id": "D",
+          "text": "All of these"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q010",
+      "page_number": 1,
+      "original_question_number": 10,
+      "question_text": "Which MOTT QoS Level is also known as \"at most once\" delivery?",
+      "options": [
+        {
+          "id": "A",
+          "text": "QoS O"
+        },
+        {
+          "id": "B",
+          "text": "QoS 1"
+        },
+        {
+          "id": "C",
+          "text": "QoS 2"
+        },
+        {
+          "id": "D",
+          "text": "None of these"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q011",
+      "page_number": 1,
+      "original_question_number": 11,
+      "question_text": "Fill in the blank space designated by the question mark. Transducer Transducer Input Signal Output Signal Sensor Actuator _iopyt__ Transducer's output",
+      "options": [
+        {
+          "id": "A",
+          "text": "Snubber"
+        },
+        {
+          "id": "B",
+          "text": "Repeater"
+        },
+        {
+          "id": "C",
+          "text": "Processor"
+        },
+        {
+          "id": "D",
+          "text": "Amplifier"
+        }
+      ],
+      "has_diagram": true,
+      "diagram_url": "/static/images/p01_q11_diagram.png",
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q012",
+      "page_number": 1,
+      "original_question_number": 12,
+      "question_text": "Which of the following best describes a vector sensor?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Its response depends only on the temperature."
+        },
+        {
+          "id": "B",
+          "text": "Its response depends only on the magnitude of the input."
+        },
+        {
+          "id": "C",
+          "text": "Its response depends on the magnitude, direction, and orientation of the input parameter."
+        },
+        {
+          "id": "D",
+          "text": "Its response is independent of the input parameter."
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q013",
+      "page_number": 1,
+      "original_question_number": 13,
+      "question_text": "Which of the following frequency ranges is used by 6L0WPAN worldwide?",
+      "options": [
+        {
+          "id": "A",
+          "text": "902-929 MHz"
+        },
+        {
+          "id": "B",
+          "text": "2400-2488.5 MHz"
+        },
+        {
+          "id": "C",
+          "text": "1800-1900 MHz"
+        },
+        {
+          "id": "D",
+          "text": "5.8 GHz"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q014",
+      "page_number": 1,
+      "original_question_number": 14,
+      "question_text": "In DDS RTPS, data is referred to as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Packets"
+        },
+        {
+          "id": "B",
+          "text": "Frames"
+        },
+        {
+          "id": "C",
+          "text": "Messages"
+        },
+        {
+          "id": "D",
+          "text": "Topics"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q015",
+      "page_number": 1,
+      "original_question_number": 15,
+      "question_text": "Which of the following IoT protocols is based on the session layer of the OSI model?",
+      "options": [
+        {
+          "id": "A",
+          "text": "MOTT"
+        },
+        {
+          "id": "B",
+          "text": "CoAP"
+        },
+        {
+          "id": "C",
+          "text": "AMQP"
+        },
+        {
+          "id": "D",
+          "text": "DTLS"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": true,
+      "review_note": "Accepted answer printed in PDF is 'D. Topics' while options are IoT protocols (A: MQTT, B: CoAP, C: AMQP, D: DTLS). Preserved option D as printed in source PDF."
+    },
+    {
+      "id": "q016",
+      "page_number": 2,
+      "original_question_number": 1,
+      "question_text": "What is a significant characteristic of new materials in the context of the Fourth Industrial Revolution?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High cost and scarcity"
+        },
+        {
+          "id": "B",
+          "text": "Lighter, stronger, recyclable, and adaptive"
+        },
+        {
+          "id": "C",
+          "text": "Easily available but very expensive"
+        },
+        {
+          "id": "D",
+          "text": "Non-recyclable and heavy"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q017",
+      "page_number": 2,
+      "original_question_number": 2,
+      "question_text": "Which of the following is NOT a characteristic of the Fourth Industrial Revolution?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extensive use of the ubiquitous and mobile internet"
+        },
+        {
+          "id": "B",
+          "text": "Use of artificial intelligence and machine learning"
+        },
+        {
+          "id": "C",
+          "text": "Invention of the steam engine"
+        },
+        {
+          "id": "D",
+          "text": "Development of Cyber Physical Systems (CPS)"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q018",
+      "page_number": 2,
+      "original_question_number": 3,
+      "question_text": "What is considered the main nervous system of any manufacturing industry?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Human Resources"
+        },
+        {
+          "id": "B",
+          "text": "Information and Communication Technology (ICD"
+        },
+        {
+          "id": "C",
+          "text": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "D",
+          "text": "Marketing"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q019",
+      "page_number": 2,
+      "original_question_number": 4,
+      "question_text": "Which of the following is not a characteristic of a sustainable industry?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Energy efficiency"
+        },
+        {
+          "id": "B",
+          "text": "Reliance on government subsidy"
+        },
+        {
+          "id": "C",
+          "text": "Conservation of resource"
+        },
+        {
+          "id": "D",
+          "text": "Low-waste production"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q020",
+      "page_number": 2,
+      "original_question_number": 5,
+      "question_text": "What does L, D and T stand for under 'People Engagement' in the Lean production System?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Learn, Do, Teach"
+        },
+        {
+          "id": "B",
+          "text": "Leverage, Divulge, Teardown"
+        },
+        {
+          "id": "C",
+          "text": "Lean, Diverse, Timid"
+        },
+        {
+          "id": "D",
+          "text": "Loan, Deploy, Test"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q021",
+      "page_number": 2,
+      "original_question_number": 6,
+      "question_text": "Which resource is associated with the 'Optimization' categorization of Smart and connected products?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Optimization algorithms"
+        },
+        {
+          "id": "B",
+          "text": "Manual controls"
+        },
+        {
+          "id": "C",
+          "text": "Marketing data"
+        },
+        {
+          "id": "D",
+          "text": "Financial reports"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q022",
+      "page_number": 2,
+      "original_question_number": 7,
+      "question_text": "State True or False. The amalgamation of CPS and the evolution of Internet-based technologies led to the development of the Industrial Internet.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q023",
+      "page_number": 2,
+      "original_question_number": 8,
+      "question_text": "State True or False. Real-time supply chain monitoring reduces inventory and capital requirements.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q024",
+      "page_number": 2,
+      "original_question_number": 9,
+      "question_text": "In the context of Industry 4.0, what is the full form of CPS?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Controlled Power System"
+        },
+        {
+          "id": "B",
+          "text": "Customer Provisioning Service"
+        },
+        {
+          "id": "C",
+          "text": "Cloud Processing Service"
+        },
+        {
+          "id": "D",
+          "text": "Cyber Physical Systems"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q025",
+      "page_number": 2,
+      "original_question_number": 10,
+      "question_text": "What does ERP stand for in the context of ICT?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Enterprise Resource Planning"
+        },
+        {
+          "id": "B",
+          "text": "Electronic Resource Platform"
+        },
+        {
+          "id": "C",
+          "text": "Enhanced Reporting Protocol"
+        },
+        {
+          "id": "D",
+          "text": "Economic Resource Planning"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q026",
+      "page_number": 2,
+      "original_question_number": 11,
+      "question_text": "What is a 'value stream' in Lean Production System?.",
+      "options": [
+        {
+          "id": "A",
+          "text": "set of tools for production"
+        },
+        {
+          "id": "B",
+          "text": "All the actions required for a product from order to delivery"
+        },
+        {
+          "id": "C",
+          "text": "method of employee training"
+        },
+        {
+          "id": "D",
+          "text": "type of waste reduction"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q027",
+      "page_number": 2,
+      "original_question_number": 12,
+      "question_text": "Which of the following are key attributes of a smart business model?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Manual processes, cost reduction, and labor dependency"
+        },
+        {
+          "id": "B",
+          "text": "Value proposition, revenue streams, and technologies"
+        },
+        {
+          "id": "C",
+          "text": "Traditional marketing, fixed costs, and limited innovation"
+        },
+        {
+          "id": "D",
+          "text": "Centralized control, non-di9ital strategies, and fixed processes"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q028",
+      "page_number": 2,
+      "original_question_number": 13,
+      "question_text": "Which of the following is not a component of a Smart Factory?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Smart machines"
+        },
+        {
+          "id": "B",
+          "text": "Smart manufacturing processes"
+        },
+        {
+          "id": "C",
+          "text": "Information Technology"
+        },
+        {
+          "id": "D",
+          "text": "Physical ledgers"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q029",
+      "page_number": 2,
+      "original_question_number": 14,
+      "question_text": "In which format is healthcare data transmitted to maintain data uniformity and interoperability?",
+      "options": [
+        {
+          "id": "A",
+          "text": "I-IL-7"
+        },
+        {
+          "id": "B",
+          "text": "LI-I-5"
+        },
+        {
+          "id": "C",
+          "text": "HD-7"
+        },
+        {
+          "id": "D",
+          "text": "None of these"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q030",
+      "page_number": 2,
+      "original_question_number": 15,
+      "question_text": "What are the key characteristics of agility?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stability, Rigidity, and Standardization"
+        },
+        {
+          "id": "B",
+          "text": "Flexibility, Adaptation, and Self-configuration"
+        },
+        {
+          "id": "C",
+          "text": "Planning, Controlling, and Monitoring"
+        },
+        {
+          "id": "D",
+          "text": "Automation, Documentation, and Testing"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q031",
+      "page_number": 3,
+      "original_question_number": 1,
+      "question_text": "What does \"reactive computation\" in CPS signify?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Systems with zero response time"
+        },
+        {
+          "id": "B",
+          "text": "Interaction with the environment in an ongoing manner"
+        },
+        {
+          "id": "C",
+          "text": "Predefined computation processes"
+        },
+        {
+          "id": "D",
+          "text": "Complete isolation from physical feedback"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q032",
+      "page_number": 3,
+      "original_question_number": 2,
+      "question_text": "Fill in the blanks. In healthcare applications, CPS is used for -",
+      "options": [
+        {
+          "id": "A",
+          "text": "Image-guided surgery and therapy -1"
+        },
+        {
+          "id": "B",
+          "text": "Manual monitoring of vitals"
+        },
+        {
+          "id": "C",
+          "text": "Static hospital management systems"
+        },
+        {
+          "id": "D",
+          "text": "Front desk management"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q033",
+      "page_number": 3,
+      "original_question_number": 3,
+      "question_text": "Which level in the \"5C Architecture\" ensures the gathering of precise status information of machines?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conversion"
+        },
+        {
+          "id": "B",
+          "text": "Cognition"
+        },
+        {
+          "id": "C",
+          "text": "Cyber"
+        },
+        {
+          "id": "D",
+          "text": "Configuration"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q034",
+      "page_number": 3,
+      "original_question_number": 4,
+      "question_text": "Fill in the blanks. Intelligent sensors are capable of Ipoint",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only sensing data"
+        },
+        {
+          "id": "B",
+          "text": "Processing sensed data and managing external sensors/ devices"
+        },
+        {
+          "id": "C",
+          "text": "Limited communication"
+        },
+        {
+          "id": "D",
+          "text": "Basic analog-to-digital conversion"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q035",
+      "page_number": 3,
+      "original_question_number": 5,
+      "question_text": "How many steps are there in the PLM solution approach in Industry 4.0?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "12 -1 O O"
+        },
+        {
+          "id": "C",
+          "text": "8"
+        },
+        {
+          "id": "D",
+          "text": "7"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q036",
+      "page_number": 3,
+      "original_question_number": 6,
+      "question_text": "Which of the following is not a key component of an AR Device?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sensors"
+        },
+        {
+          "id": "B",
+          "text": "Cameras"
+        },
+        {
+          "id": "C",
+          "text": "Projection Screen"
+        },
+        {
+          "id": "D",
+          "text": "Remote Control"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q037",
+      "page_number": 3,
+      "original_question_number": 7,
+      "question_text": "Which of the following is NOT a challenge of Al in IloT?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Connecting devices"
+        },
+        {
+          "id": "B",
+          "text": "Understanding data"
+        },
+        {
+          "id": "C",
+          "text": "Training Al models"
+        },
+        {
+          "id": "D",
+          "text": "Lack of available data"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q038",
+      "page_number": 3,
+      "original_question_number": 8,
+      "question_text": "Which of the following is not one of the primary constraints of mobile CPS?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stability of the network"
+        },
+        {
+          "id": "B",
+          "text": "Power requirement"
+        },
+        {
+          "id": "C",
+          "text": "Security"
+        },
+        {
+          "id": "D",
+          "text": "Design aesthetics"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q039",
+      "page_number": 3,
+      "original_question_number": 9,
+      "question_text": "What are the components of the 5C architecture for CPS?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Connection, Conversion, Cyber, Cognition, Configuration"
+        },
+        {
+          "id": "B",
+          "text": "Creation, Controlling, Continuation, Convergence, Compatibility"
+        },
+        {
+          "id": "C",
+          "text": "Calculation, Catalysis, Convergence, Convenience, Cognizance"
+        },
+        {
+          "id": "D",
+          "text": "None of these"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q040",
+      "page_number": 3,
+      "original_question_number": 10,
+      "question_text": "What is one of the key features of CPS in terms Of computation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Static computation"
+        },
+        {
+          "id": "B",
+          "text": "Reactive computation"
+        },
+        {
+          "id": "C",
+          "text": "Limited computation"
+        },
+        {
+          "id": "D",
+          "text": "Redundant computation"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q041",
+      "page_number": 3,
+      "original_question_number": 11,
+      "question_text": "What is a collaboration platform in the context of Industry 4.0?",
+      "options": [
+        {
+          "id": "A",
+          "text": "type of business software that combines organizational networking capacities with operations"
+        },
+        {
+          "id": "B",
+          "text": "social media platform for employees -1"
+        },
+        {
+          "id": "C",
+          "text": "traditional project management tool -1"
+        },
+        {
+          "id": "D",
+          "text": "financial management system"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q042",
+      "page_number": 3,
+      "original_question_number": 12,
+      "question_text": "What is a key feature of Augmented Reality (AR)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Completely replacing the physical environment"
+        },
+        {
+          "id": "B",
+          "text": "Enhancing the present perception of reality"
+        },
+        {
+          "id": "C",
+          "text": "Only providing auditory feedback"
+        },
+        {
+          "id": "D",
+          "text": "Operating in isolated systems"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q043",
+      "page_number": 3,
+      "original_question_number": 13,
+      "question_text": "Who proposed the first use of the phrase \"Artificial Intelligence\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alan Turing"
+        },
+        {
+          "id": "B",
+          "text": "John McCarthy"
+        },
+        {
+          "id": "C",
+          "text": "Marvin Minsky"
+        },
+        {
+          "id": "D",
+          "text": "Herbert Simon"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q044",
+      "page_number": 3,
+      "original_question_number": 14,
+      "question_text": "Which of the following statements is true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "program without Al uses a large knowledge base and a heuristic search method"
+        },
+        {
+          "id": "B",
+          "text": "program with Al uses a large database and an algorithmic search method -1"
+        },
+        {
+          "id": "C",
+          "text": "program with Al uses a large knowledge base and a heuristic search method"
+        },
+        {
+          "id": "D",
+          "text": "program without Al uses a large database and a heuristic search method"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q045",
+      "page_number": 3,
+      "original_question_number": 15,
+      "question_text": "Which of the following are constraints of mobile",
+      "options": [
+        {
+          "id": "A",
+          "text": "Network stability"
+        },
+        {
+          "id": "B",
+          "text": "Power requirement"
+        },
+        {
+          "id": "C",
+          "text": "Security"
+        },
+        {
+          "id": "D",
+          "text": "All of the above"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": "Verified from graded submission: user selected (D) All of the above, evaluated as 'Yes, The answer is correct, Score: 1'."
+    },
+    {
+      "id": "q046",
+      "page_number": 4,
+      "original_question_number": 1,
+      "question_text": "What does Application Security aim to protect against?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unauthorized physical access"
+        },
+        {
+          "id": "B",
+          "text": "Threats to the software applications"
+        },
+        {
+          "id": "C",
+          "text": "Data breaches from the internet"
+        },
+        {
+          "id": "D",
+          "text": "Network architecture issues"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q047",
+      "page_number": 4,
+      "original_question_number": 2,
+      "question_text": "What is Ransomware?",
+      "options": [
+        {
+          "id": "A",
+          "text": "type of malware that provides a facility to the attacker to lock users' computer files by using encryption and demand money to unlock them"
+        },
+        {
+          "id": "B",
+          "text": "program that increases computer performance"
+        },
+        {
+          "id": "C",
+          "text": "system to enhance network speed"
+        },
+        {
+          "id": "D",
+          "text": "method to secure data from unauthorized access"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q048",
+      "page_number": 4,
+      "original_question_number": 3,
+      "question_text": "What is a major challenge in the deployment of IloT?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Legacy installations"
+        },
+        {
+          "id": "B",
+          "text": "Cybersecurity"
+        },
+        {
+          "id": "C",
+          "text": "Lack of standardization"
+        },
+        {
+          "id": "D",
+          "text": "All of the above"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q049",
+      "page_number": 4,
+      "original_question_number": 4,
+      "question_text": "What are the three waves of industrial level innovation according to GE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Internet Revolution, The Digital Revolution, The Industrial Internet -1"
+        },
+        {
+          "id": "B",
+          "text": "The Industrial Revolution, The Internet Revolution, The Industrial Internet"
+        },
+        {
+          "id": "C",
+          "text": "The Agricultural Revolution, The Internet Revolution, The Industrial Internet"
+        },
+        {
+          "id": "D",
+          "text": "The Scientific Revolution, The Industrial Revolution, The Internet Revolution"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q050",
+      "page_number": 4,
+      "original_question_number": 5,
+      "question_text": "What is a major drawback of the Industrial Revolution?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It had no impact on the environment"
+        },
+        {
+          "id": "B",
+          "text": "It created a bad working environment and inefficient processes"
+        },
+        {
+          "id": "C",
+          "text": "It reduced the use of fossil fuels"
+        },
+        {
+          "id": "D",
+          "text": "It enhanced the quality of life for all workers"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q051",
+      "page_number": 4,
+      "original_question_number": 6,
+      "question_text": "Which component is NOT part of the configurations involved in smart sensors?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Multiparameter Sensing Unit"
+        },
+        {
+          "id": "B",
+          "text": "Analog Detection Circuit"
+        },
+        {
+          "id": "C",
+          "text": "Digital Signal Conditioning Unit"
+        },
+        {
+          "id": "D",
+          "text": "Manual Control Unit"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q052",
+      "page_number": 4,
+      "original_question_number": 7,
+      "question_text": "Which sector is predicted to have the highest growth in Industry 4.0?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Electronics"
+        },
+        {
+          "id": "B",
+          "text": "Manufacturing"
+        },
+        {
+          "id": "C",
+          "text": "Defense"
+        },
+        {
+          "id": "D",
+          "text": "Automotive"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q053",
+      "page_number": 4,
+      "original_question_number": 8,
+      "question_text": "What is the focus of the 'Control Layer' in the 5C Architecture for Cyber Physical Systems?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Data collection"
+        },
+        {
+          "id": "B",
+          "text": "Sensor-based monitoring"
+        },
+        {
+          "id": "C",
+          "text": "Supervised control: Self-configure, Self-optimize, Self-adjust"
+        },
+        {
+          "id": "D",
+          "text": "Human-readable interpretation and data visualization"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q054",
+      "page_number": 4,
+      "original_question_number": 9,
+      "question_text": "Why are 110T Security Standards required, especially when diverse systems and equipment are integrated on a smart factory floor?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To reduce the cost of implementing IloT."
+        },
+        {
+          "id": "B",
+          "text": "Because leaving security to individual 110T implementers is dangerous and every weak line puts the whole factory at risk."
+        },
+        {
+          "id": "C",
+          "text": "To ensure that only new systems are implemented, not legacy ones."
+        },
+        {
+          "id": "D",
+          "text": "To increase the complexity of the smart factory floor."
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q055",
+      "page_number": 4,
+      "original_question_number": 10,
+      "question_text": "In the mining industry, how do sensor networks with gas sensors, strata monitoring devices, and RFID tags contribute to safety and efficiency?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They only help in tracking miners' locations."
+        },
+        {
+          "id": "B",
+          "text": "They are primarily used for communication between miners."
+        },
+        {
+          "id": "C",
+          "text": "They replace the need for human inspection."
+        },
+        {
+          "id": "D",
+          "text": "They provide early disaster warning, monitor working conditions, and help locate miners."
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q056",
+      "page_number": 4,
+      "original_question_number": 11,
+      "question_text": "Who coined the term \"Industrial Internet\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "IBM"
+        },
+        {
+          "id": "B",
+          "text": "General Electric (GE)"
+        },
+        {
+          "id": "C",
+          "text": "Intel"
+        },
+        {
+          "id": "D",
+          "text": "Siemens"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q057",
+      "page_number": 4,
+      "original_question_number": 12,
+      "question_text": "In a milk packaging unit, how is flow measured?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Using a thermometer"
+        },
+        {
+          "id": "B",
+          "text": "Via a spinning impeller that sends signals when milk flows"
+        },
+        {
+          "id": "C",
+          "text": "With a smart camera"
+        },
+        {
+          "id": "D",
+          "text": "Using a GPS module"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q058",
+      "page_number": 4,
+      "original_question_number": 13,
+      "question_text": "Which component is responsible for converting analog data to digital data in a smart sensor node?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Processor"
+        },
+        {
+          "id": "B",
+          "text": "Memory"
+        },
+        {
+          "id": "C",
+          "text": "ADC -1"
+        },
+        {
+          "id": "D",
+          "text": "DAC"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q059",
+      "page_number": 4,
+      "original_question_number": 14,
+      "question_text": "Fill in the blanks. Thames Water's smart water management system, as an example of Industrial Process 4.0 operation efficiency, primarily benefits from",
+      "options": [
+        {
+          "id": "A",
+          "text": "Data monetization and pay-per-use models."
+        },
+        {
+          "id": "B",
+          "text": "Sensor-based equipment status monitoring and failure detection."
+        },
+        {
+          "id": "C",
+          "text": "Augmented Reality-based problem diagnosis."
+        },
+        {
+          "id": "D",
+          "text": "Controlled power generation using weather forecasts."
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q060",
+      "page_number": 4,
+      "original_question_number": 15,
+      "question_text": "State true or false. In the case of spear phishing, the attackers send thousands of deceitful emails that resemble actual emails from credible sources, while email phishing attacks are targeted at a specific person or organization to obtain sensitive information.",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q061",
+      "page_number": 5,
+      "original_question_number": 1,
+      "question_text": "Which company employs the \"Air-as-a-Service\" model by using sensor-equipped air compressors where users pay per cubic meter of air?",
+      "options": [
+        {
+          "id": "A",
+          "text": "John Joh n Deere"
+        },
+        {
+          "id": "B",
+          "text": "Kaeser Kompressoren"
+        },
+        {
+          "id": "C",
+          "text": "Magna Steyr"
+        },
+        {
+          "id": "D",
+          "text": "Gehring"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q062",
+      "page_number": 5,
+      "original_question_number": 2,
+      "question_text": "In the context of the Hitachi integrated 110T platform, what is the name of the core IoT platform used for Al-powered advanced analytics?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Predix"
+        },
+        {
+          "id": "B",
+          "text": "MindSphere -1"
+        },
+        {
+          "id": "C",
+          "text": "Lumada -1"
+        },
+        {
+          "id": "D",
+          "text": "Connext"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q063",
+      "page_number": 5,
+      "original_question_number": 3,
+      "question_text": "In the context of Smart Logistics, which company uses IoT and analytics to remotely monitor and optimize fuel consumption for refrigerated and dry cargo containers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Boeing"
+        },
+        {
+          "id": "B",
+          "text": "Maersk"
+        },
+        {
+          "id": "C",
+          "text": "Komatsu"
+        },
+        {
+          "id": "D",
+          "text": "Stanley Black & Decker"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q064",
+      "page_number": 5,
+      "original_question_number": 4,
+      "question_text": "In the building blocks of a business model, which Of the following represents a quantitative value proposition?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Design"
+        },
+        {
+          "id": "B",
+          "text": "Brand perception -1"
+        },
+        {
+          "id": "C",
+          "text": "Customer experience"
+        },
+        {
+          "id": "D",
+          "text": "Post-purchase cost reduction"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q065",
+      "page_number": 5,
+      "original_question_number": 5,
+      "question_text": "Which IoT business model enables businesses to virtually consolidate and share their IoT-enabled assets among multiple customers to minimize downtime and maximize utilization?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Subscription Model"
+        },
+        {
+          "id": "B",
+          "text": "Asset-Sharing Model"
+        },
+        {
+          "id": "C",
+          "text": "Outcome-Based Model"
+        },
+        {
+          "id": "D",
+          "text": "IoT-as-a-Service"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q066",
+      "page_number": 5,
+      "original_question_number": 6,
+      "question_text": "In a Cloud-Based Business Model, which offering provides development-oriented platforms to facilitate the integration of applications into existing solutions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Software-as-a-Service (SaaS)"
+        },
+        {
+          "id": "B",
+          "text": "Infrastructure-as-a-Service (IaaS)"
+        },
+        {
+          "id": "C",
+          "text": "Platform-as-a-Service (PaaS)"
+        },
+        {
+          "id": "D",
+          "text": "Network-as-a-Service (NaaS)"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q067",
+      "page_number": 5,
+      "original_question_number": 7,
+      "question_text": "In the functional flow of 110T business models, which model specifically employs Cloud-based business models to gather data, analyze it, and sell it as a service?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Service-Oriented Business Model"
+        },
+        {
+          "id": "B",
+          "text": "Process- Oriented Business Model"
+        },
+        {
+          "id": "C",
+          "text": "Product-Oriented Business Model"
+        },
+        {
+          "id": "D",
+          "text": "Asset-Sharing Business Model"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q068",
+      "page_number": 5,
+      "original_question_number": 8,
+      "question_text": "Which of the following is considered a lagging Key Performance Indicator (KPI) for Occupational Safety and Health COSH)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Frequency of observed unsafe behavior"
+        },
+        {
+          "id": "B",
+          "text": "Number of OSH audits"
+        },
+        {
+          "id": "C",
+          "text": "Percentage of workers with adequate OSH training"
+        },
+        {
+          "id": "D",
+          "text": "Number of fatalities"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q069",
+      "page_number": 5,
+      "original_question_number": 9,
+      "question_text": "According to the Industrial Internet Consortium (IIC), what is the primary purpose of their developed testbeds?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To initiate, conceptualize, and rigorously test innovations before market launch -1"
+        },
+        {
+          "id": "B",
+          "text": "To handle manual data entries for traditional factories"
+        },
+        {
+          "id": "C",
+          "text": "To increase the processing downtime in manufacturing sectors"
+        },
+        {
+          "id": "D",
+          "text": "To establish isolated machine operations away from the cloud"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q070",
+      "page_number": 5,
+      "original_question_number": 10,
+      "question_text": "In the Business Viewpoint of the IIRA framework, what provides the logic regarding the merit of the vision and is validated by stakeholders?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Key Objectives"
+        },
+        {
+          "id": "B",
+          "text": "Fundamental Capabilities"
+        },
+        {
+          "id": "C",
+          "text": "Values"
+        },
+        {
+          "id": "D",
+          "text": "System Requirements"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q071",
+      "page_number": 5,
+      "original_question_number": 11,
+      "question_text": "In the Usage Viewpoint of the IIRA framework, what describes the state of the 110T system after the SUCCeSSfUl completion of an activity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trigger"
+        },
+        {
+          "id": "B",
+          "text": "Workflow"
+        },
+        {
+          "id": "C",
+          "text": "Constraints"
+        },
+        {
+          "id": "D",
+          "text": "Effect"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q072",
+      "page_number": 5,
+      "original_question_number": 12,
+      "question_text": "Which functional domain in the IIRA functional viewpoint represents the set of functions responsible for the provisioning, deployment, and management of assets?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Control domain"
+        },
+        {
+          "id": "B",
+          "text": "Operations domain"
+        },
+        {
+          "id": "C",
+          "text": "Information domain"
+        },
+        {
+          "id": "D",
+          "text": "Application domain"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q073",
+      "page_number": 5,
+      "original_question_number": 13,
+      "question_text": "An 110T system architect is designing a framework that requires the semantic transformation of assembled data and the subsequent implementation of specific rules to realize a targeted business function. According to the IIRA Functional Viewpoint, which two domains are specifically responsible for handling these respective requirements?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Information domain and Application domain"
+        },
+        {
+          "id": "B",
+          "text": "Operations domain and Business domain"
+        },
+        {
+          "id": "C",
+          "text": "Information domain and Business domain"
+        },
+        {
+          "id": "D",
+          "text": "Application domain and Control domain"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q074",
+      "page_number": 5,
+      "original_question_number": 14,
+      "question_text": "Which of the following is NOT categorized as one of the fundamental activities in a business model?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Production"
+        },
+        {
+          "id": "B",
+          "text": "Problem-solving"
+        },
+        {
+          "id": "C",
+          "text": "Platform management"
+        },
+        {
+          "id": "D",
+          "text": "Philanthropy"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q075",
+      "page_number": 5,
+      "original_question_number": 15,
+      "question_text": "In the context of 110T business models, what is the term used for the mechanism by which a service provider transforms the present value of assets into ones with financial value?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Value Proposition"
+        },
+        {
+          "id": "B",
+          "text": "Value Network"
+        },
+        {
+          "id": "C",
+          "text": "Value Capturing Mechanism"
+        },
+        {
+          "id": "D",
+          "text": "Value Communication"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q076",
+      "page_number": 6,
+      "original_question_number": 1,
+      "question_text": "Which of the following is highlighted as a benefit of sensor usage in industrial applications for improving overall operations?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Improving visibility"
+        },
+        {
+          "id": "B",
+          "text": "Increasing manual inspection"
+        },
+        {
+          "id": "C",
+          "text": "Enhancing latency"
+        },
+        {
+          "id": "D",
+          "text": "Reducing production rate"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q077",
+      "page_number": 6,
+      "original_question_number": 2,
+      "question_text": "Which type of sensor is primarily used for the inspection of steel pipes and detecting time- varying stresses or strains in ferromagnetic materials?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Torque sensor"
+        },
+        {
+          "id": "B",
+          "text": "Vacuum sensor"
+        },
+        {
+          "id": "C",
+          "text": "Magnetostrictive sensor"
+        },
+        {
+          "id": "D",
+          "text": "Image sensor"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q078",
+      "page_number": 6,
+      "original_question_number": 3,
+      "question_text": "The DS1621 temperature sensor is a digital sensor that communicates via an 12C bus and generates temperature data of how many bits?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8 bits"
+        },
+        {
+          "id": "B",
+          "text": "82 bits"
+        },
+        {
+          "id": "C",
+          "text": "16 bits"
+        },
+        {
+          "id": "D",
+          "text": "9 bits"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q079",
+      "page_number": 6,
+      "original_question_number": 4,
+      "question_text": "In the context of gas sensor characteristics, how is \"Selectivity\" defined?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The ability to detect a particular gas in a mixture of different gases"
+        },
+        {
+          "id": "B",
+          "text": "The time taken to stabilize its response"
+        },
+        {
+          "id": "C",
+          "text": "The change in output signal with respect to unit change in input"
+        },
+        {
+          "id": "D",
+          "text": "The ability to return to its base resistance value"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q080",
+      "page_number": 6,
+      "original_question_number": 5,
+      "question_text": "What happens to the resistance of an n-type metal oxide semiconductor (MOS) gas sensor when it is exposed to a reducing gas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It remains unchanged"
+        },
+        {
+          "id": "B",
+          "text": "It increases"
+        },
+        {
+          "id": "C",
+          "text": "It decreases"
+        },
+        {
+          "id": "D",
+          "text": "It fluctuates randomly"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q081",
+      "page_number": 6,
+      "original_question_number": 6,
+      "question_text": "How many active connections or sockets does the ModBus-TCP protocol typically support at one time?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Up to 5"
+        },
+        {
+          "id": "B",
+          "text": "up to 10"
+        },
+        {
+          "id": "C",
+          "text": "up to 64"
+        },
+        {
+          "id": "D",
+          "text": "Up to 254"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q082",
+      "page_number": 6,
+      "original_question_number": 7,
+      "question_text": "In EtherNet/lP, which primary type of communication is used to handle real-time 1/0 data through continuous message transfer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Implicit"
+        },
+        {
+          "id": "B",
+          "text": "Explicit"
+        },
+        {
+          "id": "C",
+          "text": "Acyclic"
+        },
+        {
+          "id": "D",
+          "text": "Asynchronous"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q083",
+      "page_number": 6,
+      "original_question_number": 8,
+      "question_text": "Time-Sensitive Networking (TSN) is an extension of Ethernet developed to enable deterministic communication. Which IEEE standard is it primarily based",
+      "options": [
+        {
+          "id": "A",
+          "text": "IEEE 802.154"
+        },
+        {
+          "id": "B",
+          "text": "IEEE 802.10"
+        },
+        {
+          "id": "C",
+          "text": "IEEE 802.1F"
+        },
+        {
+          "id": "D",
+          "text": "IEEE 802.1P"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q084",
+      "page_number": 6,
+      "original_question_number": 9,
+      "question_text": "In a Profibus DP (Decentralized Peripherals) network, how many devices are supported at a single time without the use of repeaters?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "128"
+        },
+        {
+          "id": "C",
+          "text": "64"
+        },
+        {
+          "id": "D",
+          "text": "82"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q085",
+      "page_number": 6,
+      "original_question_number": 10,
+      "question_text": "What is the global operating frequency utilized by the CC-Link communication protocol?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.4 GHz"
+        },
+        {
+          "id": "B",
+          "text": "5.0 GHz"
+        },
+        {
+          "id": "C",
+          "text": "18.56 MHz"
+        },
+        {
+          "id": "D",
+          "text": "488 MHz"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q086",
+      "page_number": 6,
+      "original_question_number": 11,
+      "question_text": "The DeviceNet communication protocol links industrial sensors and actuators with Programmable Logic Controllers (PLCs) and is based on which standard?",
+      "options": [
+        {
+          "id": "A",
+          "text": "CAN (Controller Area Network)"
+        },
+        {
+          "id": "B",
+          "text": "IEC 61158"
+        },
+        {
+          "id": "C",
+          "text": "IEEE 802.8"
+        },
+        {
+          "id": "D",
+          "text": "WIA-PA"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q087",
+      "page_number": 6,
+      "original_question_number": 12,
+      "question_text": "Which of the following is an advantage of the WIA- PA (Wireless Networks for Industrial Automation- Process Automation) standard?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It operates exclusively on wired fiber optics"
+        },
+        {
+          "id": "B",
+          "text": "It supports Adaptive Frequency Hopping (AFH)"
+        },
+        {
+          "id": "C",
+          "text": "It removes the need for data packet aggregation"
+        },
+        {
+          "id": "D",
+          "text": "It replaces satellite communication"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q088",
+      "page_number": 6,
+      "original_question_number": 13,
+      "question_text": "For Ultra-Reliable Low Latency Communication (URLLC) in 5G, what is the specified target for availability?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8-Nines (99.9%)"
+        },
+        {
+          "id": "B",
+          "text": "4-Nines (99.990/0) ."
+        },
+        {
+          "id": "C",
+          "text": "5-Nines (99.999%)"
+        },
+        {
+          "id": "D",
+          "text": "6-Nines (99.9999%) ."
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q089",
+      "page_number": 6,
+      "original_question_number": 14,
+      "question_text": "Which of the following is an objective of Device-t0- Device (D2D) Communication in cellular networks?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increasing the load on the core network"
+        },
+        {
+          "id": "B",
+          "text": "Eliminating the load on the core network"
+        },
+        {
+          "id": "C",
+          "text": "Maximizing propagation delay"
+        },
+        {
+          "id": "D",
+          "text": "Restricting communication to wired endpoints"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q090",
+      "page_number": 6,
+      "original_question_number": 15,
+      "question_text": "Which of the following is considered a primary disadvantage of millimeter-wave (mmWave) communication?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It requires huge antenna element sizes"
+        },
+        {
+          "id": "B",
+          "text": "It utilizes the heavily congested GHz band"
+        },
+        {
+          "id": "C",
+          "text": "It suffers from high penetration loss and shadowing"
+        },
+        {
+          "id": "D",
+          "text": "It provides very low data throughput"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q091",
+      "page_number": 7,
+      "original_question_number": 1,
+      "question_text": "Which modulation technique is incorporated by LoRa technology?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Frequency Shift Keying (FSK)"
+        },
+        {
+          "id": "B",
+          "text": "Phase Shift Keying (PSO"
+        },
+        {
+          "id": "C",
+          "text": "Chirp Spread Spectrum (CSS)"
+        },
+        {
+          "id": "D",
+          "text": "Amplitude Shift Keying (ASK)"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q092",
+      "page_number": 7,
+      "original_question_number": 2,
+      "question_text": "What is the maximum wireless throughput achieved by the SIGFOX network?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Up to 100 bits per second"
+        },
+        {
+          "id": "B",
+          "text": "Up to 100 bytes per second"
+        },
+        {
+          "id": "C",
+          "text": "Up to 140 bits per second"
+        },
+        {
+          "id": "D",
+          "text": "Up to 1000 bits per second"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q093",
+      "page_number": 7,
+      "original_question_number": 3,
+      "question_text": "Depending on the device variant, what is the typical communication range for a Zigbee network?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 to 5 meters"
+        },
+        {
+          "id": "B",
+          "text": "10 to 100 meters"
+        },
+        {
+          "id": "C",
+          "text": "500 to 1000 meters"
+        },
+        {
+          "id": "D",
+          "text": "1 to 10 kilometers"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q094",
+      "page_number": 7,
+      "original_question_number": 4,
+      "question_text": "In a Zigbee network, which device is specifically responsible for relaying information to other nodes and can also run small-scale applications?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Coordinator"
+        },
+        {
+          "id": "B",
+          "text": "End device"
+        },
+        {
+          "id": "C",
+          "text": "Gateway"
+        },
+        {
+          "id": "D",
+          "text": "Router"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q095",
+      "page_number": 7,
+      "original_question_number": 5,
+      "question_text": "Which software is used to discover and configure Xbee modules before utilizing them for communication?",
+      "options": [
+        {
+          "id": "A",
+          "text": "XCTU"
+        },
+        {
+          "id": "B",
+          "text": "Arduino IDE"
+        },
+        {
+          "id": "C",
+          "text": "NodeMCU Flasher"
+        },
+        {
+          "id": "D",
+          "text": "Purry"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q096",
+      "page_number": 7,
+      "original_question_number": 6,
+      "question_text": "Which type of 110T analytics primarily focuses on answering the questions \"What already happened and currently happening\" using dashboards and reports?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Predictive Analytics"
+        },
+        {
+          "id": "B",
+          "text": "Prescriptive Analytics"
+        },
+        {
+          "id": "C",
+          "text": "Descriptive Analytics"
+        },
+        {
+          "id": "D",
+          "text": "Diagnostic Analytics"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q097",
+      "page_number": 7,
+      "original_question_number": 7,
+      "question_text": "Many middleware solutions in 110T processing architectures are based on which of the following?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Service-Oriented Architecture (SOA)"
+        },
+        {
+          "id": "B",
+          "text": "Microservices Architecture"
+        },
+        {
+          "id": "C",
+          "text": "Monolithic Architecture"
+        },
+        {
+          "id": "D",
+          "text": "Layered Databus Architecture"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q098",
+      "page_number": 7,
+      "original_question_number": 8,
+      "question_text": "In the FarmBeats architecture, which component incorporates weather-aware decisions and UAV flight planning?",
+      "options": [
+        {
+          "id": "A",
+          "text": "IoT Base Station"
+        },
+        {
+          "id": "B",
+          "text": "Cloud-Services"
+        },
+        {
+          "id": "C",
+          "text": "Network of Soil Sensors"
+        },
+        {
+          "id": "D",
+          "text": "IoT Gateway"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q099",
+      "page_number": 7,
+      "original_question_number": 9,
+      "question_text": "In the AR Drones-based Precision Agriculture system, what is the specific role of the video processing module deployed in the laptop?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To control the flight path of the UAV remotely"
+        },
+        {
+          "id": "B",
+          "text": "To detect the weeds and generate coordinates"
+        },
+        {
+          "id": "C",
+          "text": "To actuate the precision sprayer directly via Bluetooth"
+        },
+        {
+          "id": "D",
+          "text": "To capture GPS-tagged video directly from the field"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q100",
+      "page_number": 7,
+      "original_question_number": 10,
+      "question_text": "In the iRobot-Factory architecture, which component is tasked with high-performance, long- term data analytics using artificial intelligence techniques?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Intelligent Terminal"
+        },
+        {
+          "id": "B",
+          "text": "Edge Computing Node"
+        },
+        {
+          "id": "C",
+          "text": "Cognitive Engine"
+        },
+        {
+          "id": "D",
+          "text": "Production Line Layer"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q101",
+      "page_number": 7,
+      "original_question_number": 11,
+      "question_text": "According to the phases of Big Data Driven smart Manufacturing, what is the primary focus of \"Phase 2\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Integration of data and contextual information"
+        },
+        {
+          "id": "B",
+          "text": "Innovation in process and production"
+        },
+        {
+          "id": "C",
+          "text": "Initial deployment of sensor nodes"
+        },
+        {
+          "id": "D",
+          "text": "Synthesis and analysis to build knowledge for decision making"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q102",
+      "page_number": 7,
+      "original_question_number": 12,
+      "question_text": "In a Smart Warehousing system, which module is specifically responsible for organizing and processing data, generating events in real-time, and history-based decision making?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Administrative module"
+        },
+        {
+          "id": "B",
+          "text": "Data collection module"
+        },
+        {
+          "id": "C",
+          "text": "RFID tag module"
+        },
+        {
+          "id": "D",
+          "text": "REST-based framework"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q103",
+      "page_number": 7,
+      "original_question_number": 13,
+      "question_text": "In the context of an Industrial Control System (ICS), what is a \"Set Point\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The physical location where a sensor is deployed"
+        },
+        {
+          "id": "B",
+          "text": "The standard value of the process parameter for controlled operation"
+        },
+        {
+          "id": "C",
+          "text": "The value of a process parameter measured by a sensor"
+        },
+        {
+          "id": "D",
+          "text": "The actuator used to manipulate the process"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q104",
+      "page_number": 7,
+      "original_question_number": 14,
+      "question_text": "Which type of control loop makes control decisions entirely independent of the measured process variable?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Closed Loop Control"
+        },
+        {
+          "id": "B",
+          "text": "Feedback Control"
+        },
+        {
+          "id": "C",
+          "text": "Open Loop Control"
+        },
+        {
+          "id": "D",
+          "text": "Proportional Control"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q105",
+      "page_number": 7,
+      "original_question_number": 15,
+      "question_text": "Which of the following is a primary component Of a Supervisory Control and Data Acquisition (SCADA) system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Complex Event Processor (CED"
+        },
+        {
+          "id": "B",
+          "text": "Centralized Cloud Services"
+        },
+        {
+          "id": "C",
+          "text": "Unmanned Aerial Vehicles (UAVs)"
+        },
+        {
+          "id": "D",
+          "text": "Remote Telemetry Units (RTUs)"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q106",
+      "page_number": 8,
+      "original_question_number": 1,
+      "question_text": "Which type of 110T analytics is responsible for informing about the remaining useful life of an asset and typically operates on a timescale of hours?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Baseline analytics"
+        },
+        {
+          "id": "B",
+          "text": "Diagnostic analytics"
+        },
+        {
+          "id": "C",
+          "text": "Prescriptive analytics"
+        },
+        {
+          "id": "D",
+          "text": "Prognostic analytics"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q107",
+      "page_number": 8,
+      "original_question_number": 2,
+      "question_text": "Which of the following software tools is highlighted for its use in Complex Event Processing (CEP) during real-time stream analytics?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apache Hadoop"
+        },
+        {
+          "id": "B",
+          "text": "Apache Spark"
+        },
+        {
+          "id": "C",
+          "text": "Apache Storm"
+        },
+        {
+          "id": "D",
+          "text": "Jupyter"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q108",
+      "page_number": 8,
+      "original_question_number": 3,
+      "question_text": "In the context of unsupervised learning, what is a primary distinction of the Fuzzy c-Means (FCM) algorithm compared to K-Means?",
+      "options": [
+        {
+          "id": "A",
+          "text": "FCM allows a data point to belong to more than one cluster"
+        },
+        {
+          "id": "B",
+          "text": "FCM is significantly slower than K-Means"
+        },
+        {
+          "id": "C",
+          "text": "FCM requires a labeled dataset to operate"
+        },
+        {
+          "id": "D",
+          "text": "FCM is categorized as Hard Clustering"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q109",
+      "page_number": 8,
+      "original_question_number": 4,
+      "question_text": "Which supervised learning algorithm is specifically utilized when the output variable to be predicted is a real number (e.g., dollars or weight)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Classification"
+        },
+        {
+          "id": "B",
+          "text": "Clustering"
+        },
+        {
+          "id": "C",
+          "text": "Reinforcement Learning"
+        },
+        {
+          "id": "D",
+          "text": "Regression"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q110",
+      "page_number": 8,
+      "original_question_number": 5,
+      "question_text": "What is a key difference between Reinforcement Learning (RL) and Supervised Learning?",
+      "options": [
+        {
+          "id": "A",
+          "text": "RL is guided by an external supervisor who knows the environment"
+        },
+        {
+          "id": "B",
+          "text": "RL utilizes a reward function that acts as feedback to the agent"
+        },
+        {
+          "id": "C",
+          "text": "RL maps inputs directly to outputs without an agent"
+        },
+        {
+          "id": "D",
+          "text": "Supervised learning models build knowledge graphs from actions"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q111",
+      "page_number": 8,
+      "original_question_number": 6,
+      "question_text": "Which of the following statements best describes why Deep Learning differs from traditional Machine Learning in industrial applications?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep learning performs significantly worse as the data volume increases"
+        },
+        {
+          "id": "B",
+          "text": "Deep learning is an \"end-to-end learning\" process that extracts features on its own"
+        },
+        {
+          "id": "C",
+          "text": "Deep learning requires features to be explicitly mentioned by domain experts"
+        },
+        {
+          "id": "D",
+          "text": "Deep learning requires very low computational power"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q112",
+      "page_number": 8,
+      "original_question_number": 7,
+      "question_text": "Which company utilizes Collaborative Distributed Deep Learning technology where the learning process is performed in the cloud while inference is conducted at the edge?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Zebra Medical Vision"
+        },
+        {
+          "id": "B",
+          "text": "Intel"
+        },
+        {
+          "id": "C",
+          "text": "H20 -1"
+        },
+        {
+          "id": "D",
+          "text": "TOSHIBA"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q113",
+      "page_number": 8,
+      "original_question_number": 8,
+      "question_text": "Which of the following is an example of an industrial Software-as-a-Service (SaaS) application?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Industrial Machinery Catalyst from Siemens"
+        },
+        {
+          "id": "B",
+          "text": "Microsoft Azure"
+        },
+        {
+          "id": "C",
+          "text": "GE Predix"
+        },
+        {
+          "id": "D",
+          "text": "Amazon Web Services CAWS)"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q114",
+      "page_number": 8,
+      "original_question_number": 9,
+      "question_text": "A cloud setup that is designed by combining two or more unique cloud infrastructures (public or private) to provide flexibility for data and application movement is called a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Public Cloud"
+        },
+        {
+          "id": "B",
+          "text": "Community Cloud"
+        },
+        {
+          "id": "C",
+          "text": "Hybrid Cloud -1"
+        },
+        {
+          "id": "D",
+          "text": "Private Cloud"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q115",
+      "page_number": 8,
+      "original_question_number": 10,
+      "question_text": "Which industrial cloud platform utilizes \"Digital Twin Technology\" for learning, estimating, optimizing, and representing assets?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sentience (Honeywell)"
+        },
+        {
+          "id": "B",
+          "text": "GE Predix"
+        },
+        {
+          "id": "C",
+          "text": "Siemens MindSphere"
+        },
+        {
+          "id": "D",
+          "text": "Meshify"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q116",
+      "page_number": 8,
+      "original_question_number": 11,
+      "question_text": "The C8 IoT platform provides a storage service for unstructured data known as the C8 Data Lake. In which format is this data primarily managed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "XML format"
+        },
+        {
+          "id": "B",
+          "text": "RESTful format"
+        },
+        {
+          "id": "C",
+          "text": "Simple Object format"
+        },
+        {
+          "id": "D",
+          "text": "SQL Relational format"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q117",
+      "page_number": 8,
+      "original_question_number": 12,
+      "question_text": "Which of the following industrial IoT platforms specifically provides solutions like \"Now\" and \"Tracker\" for real-time asset tracking with go-localized data?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Uptake"
+        },
+        {
+          "id": "B",
+          "text": "cg IoT"
+        },
+        {
+          "id": "C",
+          "text": "Meshify"
+        },
+        {
+          "id": "D",
+          "text": "Honeywell"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q118",
+      "page_number": 8,
+      "original_question_number": 13,
+      "question_text": "Which of the following is a crucial feature that an 110T cloud platform provider should offer for effective device management?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Device decommission"
+        },
+        {
+          "id": "B",
+          "text": "Physical hardware manufacturing"
+        },
+        {
+          "id": "C",
+          "text": "Manual data provisioning"
+        },
+        {
+          "id": "D",
+          "text": "Increasing network blind spots"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q119",
+      "page_number": 8,
+      "original_question_number": 14,
+      "question_text": "According to Sturm et al., which of the following is one of the defined characteristics of a \"Meaningful SLA\" (Service Level Agreement)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Subjective"
+        },
+        {
+          "id": "B",
+          "text": "Uncontrollable"
+        },
+        {
+          "id": "C",
+          "text": "Quantifiable"
+        },
+        {
+          "id": "D",
+          "text": "Unachievable"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q120",
+      "page_number": 8,
+      "original_question_number": 15,
+      "question_text": "How does Fog Computing primarily address the limitations of a purely centralized cloud-based approach in IloT?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By identifying useful data and reducing the amount of raw data sent to the cloud"
+        },
+        {
+          "id": "B",
+          "text": "By completely replacing the cloud infrastructure"
+        },
+        {
+          "id": "C",
+          "text": "By increasing the latency of time-sensitive data"
+        },
+        {
+          "id": "D",
+          "text": "By restricting the mobility of edge devices"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q121",
+      "page_number": 9,
+      "original_question_number": 1,
+      "question_text": "How does fog computing prevent unnecessary noisy big data from crowding the cloud?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By storing all raw data permanently in the cloud -1"
+        },
+        {
+          "id": "B",
+          "text": "By performing prior filtration at the edge"
+        },
+        {
+          "id": "C",
+          "text": "By disabling real-time control algorithms"
+        },
+        {
+          "id": "D",
+          "text": "By increasing the frequency of sensor transmission"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q122",
+      "page_number": 9,
+      "original_question_number": 2,
+      "question_text": "Which capability is provided by the fog-based industrial platform?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Merging real-time and non-real-time workloads"
+        },
+        {
+          "id": "B",
+          "text": "Restricting the platform to non-real-time workloads"
+        },
+        {
+          "id": "C",
+          "text": "Transmitting all sensor data without processing -1"
+        },
+        {
+          "id": "D",
+          "text": "Eliminating control of IoT endpoints"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q123",
+      "page_number": 9,
+      "original_question_number": 3,
+      "question_text": "Which fog-platform provider offers an edge-node software solution that supports any protocol, any PLC, and any hardware?",
+      "options": [
+        {
+          "id": "A",
+          "text": "FogHorn"
+        },
+        {
+          "id": "B",
+          "text": "Sonm"
+        },
+        {
+          "id": "C",
+          "text": "Crosser"
+        },
+        {
+          "id": "D",
+          "text": "Nebbiolo Technologies"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q124",
+      "page_number": 9,
+      "original_question_number": 4,
+      "question_text": "What is the purpose of the %in% special operator in",
+      "options": [
+        {
+          "id": "A",
+          "text": "To create a series of numbers for a vector -1"
+        },
+        {
+          "id": "B",
+          "text": "To check whether an element belongs to a vector -1"
+        },
+        {
+          "id": "C",
+          "text": "To perform integer division"
+        },
+        {
+          "id": "D",
+          "text": "To assign a value globally"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q125",
+      "page_number": 9,
+      "original_question_number": 5,
+      "question_text": "Which validation method is used in the demonstrated R machine-learning execution process to estimate model accuracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Two-fold cross-validation"
+        },
+        {
+          "id": "B",
+          "text": "Leave-one-out validation"
+        },
+        {
+          "id": "C",
+          "text": "Ten-fold cross-validation"
+        },
+        {
+          "id": "D",
+          "text": "Validation without data partitioning"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q126",
+      "page_number": 9,
+      "original_question_number": 6,
+      "question_text": "Which Julia function is used to create a dictionary?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tuple()"
+        },
+        {
+          "id": "B",
+          "text": "Array()"
+        },
+        {
+          "id": "C",
+          "text": "Dictn()"
+        },
+        {
+          "id": "D",
+          "text": "Dicto"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q127",
+      "page_number": 9,
+      "original_question_number": 7,
+      "question_text": "During data preprocessing, which operation eliminates repeated data through detection, filtering, Tiltenng, and ana compression? compression'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Data integration -1"
+        },
+        {
+          "id": "B",
+          "text": "Data cleaning -1"
+        },
+        {
+          "id": "C",
+          "text": "Redundancy mitigation"
+        },
+        {
+          "id": "D",
+          "text": "Data visualization"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q128",
+      "page_number": 9,
+      "original_question_number": 8,
+      "question_text": "Which Hadoop component assigns CPU, memory, and storage resources to applications running on a Hadoop cluster?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hadoop Common"
+        },
+        {
+          "id": "B",
+          "text": "Hadoop Distributed File System"
+        },
+        {
+          "id": "C",
+          "text": "MapReduce"
+        },
+        {
+          "id": "D",
+          "text": "Yet Another Resource Negotiator"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q129",
+      "page_number": 9,
+      "original_question_number": 9,
+      "question_text": "Which of the following is listed as an application of integrating MongoDB with Hadoop?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Batch aggregation"
+        },
+        {
+          "id": "B",
+          "text": "Physical network cabling"
+        },
+        {
+          "id": "C",
+          "text": "Sensor manufacturing"
+        },
+        {
+          "id": "D",
+          "text": "Firewall configuration"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q130",
+      "page_number": 9,
+      "original_question_number": 10,
+      "question_text": "Which source-routing protocol is used by the BCube data-center network topology?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Border Gateway Protocol"
+        },
+        {
+          "id": "B",
+          "text": "BCube Source Routing -1"
+        },
+        {
+          "id": "C",
+          "text": "open Shortest Path First"
+        },
+        {
+          "id": "D",
+          "text": "Spanning Tree Protocol"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q131",
+      "page_number": 9,
+      "original_question_number": 11,
+      "question_text": "Why may an IloT-based data center require an increase in inbound network bandwidth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "110T devices generate a bulk amount of small messages containing sensor data"
+        },
+        {
+          "id": "B",
+          "text": "110T completely removes the need for data transmission"
+        },
+        {
+          "id": "C",
+          "text": "Sensor data is transmitted only once during deployment"
+        },
+        {
+          "id": "D",
+          "text": "Industrial devices communicate exclusively with one another without a data center"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q132",
+      "page_number": 9,
+      "original_question_number": 12,
+      "question_text": "Which of the following is an advantage of a Software-Defined Data Centre?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Static workload management -1"
+        },
+        {
+          "id": "B",
+          "text": "Permanent coupling of software with hardware -1"
+        },
+        {
+          "id": "C",
+          "text": "Programmable infrastructure and workload management"
+        },
+        {
+          "id": "D",
+          "text": "Elimination of network virtualization"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q133",
+      "page_number": 9,
+      "original_question_number": 13,
+      "question_text": "When an SDN forwarding device has insufficient rule capacity, how can two existing flow rules be converted into a single rule?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By applying wildcard-based rule combination"
+        },
+        {
+          "id": "B",
+          "text": "By disconnecting the SDN controller"
+        },
+        {
+          "id": "C",
+          "text": "By disabling the forwarding device"
+        },
+        {
+          "id": "D",
+          "text": "By changing TCP into UDP"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q134",
+      "page_number": 9,
+      "original_question_number": 14,
+      "question_text": "How can SDN meet the dynamically changing forwarding requirements of 110T sensor data?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By assigning the same priority to every type of data permanently -1"
+        },
+        {
+          "id": "B",
+          "text": "By using rule-based forwarding policies"
+        },
+        {
+          "id": "C",
+          "text": "By preventing the controller from updating forwarding rules"
+        },
+        {
+          "id": "D",
+          "text": "By transmitting data without considering the real-time situation"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q135",
+      "page_number": 9,
+      "original_question_number": 15,
+      "question_text": "Which statement best describes Software-Defined Automation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It uses only manually controlled physical equipment"
+        },
+        {
+          "id": "B",
+          "text": "It eliminates real-time control from industrial systems"
+        },
+        {
+          "id": "C",
+          "text": "It uses a virtualized platform for dynamic, real- time system control"
+        },
+        {
+          "id": "D",
+          "text": "It restricts control operations to sensors at Level"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q136",
+      "page_number": 10,
+      "original_question_number": 1,
+      "question_text": "In Software-Defined 6TiSCH, at which layer is the slicing mechanism proposed to isolate SDN control overhead?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Physical Layer"
+        },
+        {
+          "id": "B",
+          "text": "Layer 2"
+        },
+        {
+          "id": "C",
+          "text": "Transport Layer"
+        },
+        {
+          "id": "D",
+          "text": "Application Layer"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q137",
+      "page_number": 10,
+      "original_question_number": 2,
+      "question_text": "In the adaptive transmission architecture for Software-Defined Edge Computing in IloT, data streams are divided into which two categories?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Local and global data streams"
+        },
+        {
+          "id": "B",
+          "text": "Secure and insecure data streams"
+        },
+        {
+          "id": "C",
+          "text": "Ordinary and emergent data streams"
+        },
+        {
+          "id": "D",
+          "text": "Wired and wireless data streams"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q138",
+      "page_number": 10,
+      "original_question_number": 3,
+      "question_text": "According to the challenges and opportunities of Software-Defined IloT, fog nodes/access devices play an important role in providing which type of service?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Delay-constrained emergent services"
+        },
+        {
+          "id": "B",
+          "text": "Long-term archival services"
+        },
+        {
+          "id": "C",
+          "text": "Offline batch-processing services"
+        },
+        {
+          "id": "D",
+          "text": "Manual configuration services"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q139",
+      "page_number": 10,
+      "original_question_number": 4,
+      "question_text": "In a trustworthy 110T system, which property refers to the ability of the system to function correctly under dynamic adversarial conditions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Privacy"
+        },
+        {
+          "id": "B",
+          "text": "Reliability"
+        },
+        {
+          "id": "C",
+          "text": "Safety"
+        },
+        {
+          "id": "D",
+          "text": "Resilience"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q140",
+      "page_number": 10,
+      "original_question_number": 5,
+      "question_text": "In the STRIDE threat model, what does the letter \"E\" represent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Encryption"
+        },
+        {
+          "id": "B",
+          "text": "Elevation of privilege"
+        },
+        {
+          "id": "C",
+          "text": "Exposure of information"
+        },
+        {
+          "id": "D",
+          "text": "Endpoint security"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q141",
+      "page_number": 10,
+      "original_question_number": 6,
+      "question_text": "Which participant in the 110T trust flow is responsible for designing a cost-efficient trustworthy system, defining trust requirements for components, and conducting tests and certifications?",
+      "options": [
+        {
+          "id": "A",
+          "text": "System Owner"
+        },
+        {
+          "id": "B",
+          "text": "End User"
+        },
+        {
+          "id": "C",
+          "text": "System Builder"
+        },
+        {
+          "id": "D",
+          "text": "Cloud Service Provider"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q142",
+      "page_number": 10,
+      "original_question_number": 7,
+      "question_text": "Which of the following is suggested as a solution for protecting resource-constrained 110T end devices?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lightweight symmetric key cryptography"
+        },
+        {
+          "id": "B",
+          "text": "Increasing the size of every transmitted packet"
+        },
+        {
+          "id": "C",
+          "text": "Disabling device authentication"
+        },
+        {
+          "id": "D",
+          "text": "Storing all security operations only in the cloud"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q143",
+      "page_number": 10,
+      "original_question_number": 8,
+      "question_text": "Which three states of data are considered under data protection in IloT?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Data-at-source, Data-at-cloud, and Data-at- edge"
+        },
+        {
+          "id": "B",
+          "text": "Data-at-Rest, Data-in-Use, and Data-in-Transit"
+        },
+        {
+          "id": "C",
+          "text": "Structured, Semi-structured, and Unstructured data"
+        },
+        {
+          "id": "D",
+          "text": "Sensor data, Control data, and Application data"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q144",
+      "page_number": 10,
+      "original_question_number": 9,
+      "question_text": "Which standard listed under OT security provides guidance for security in Industrial Control Systems?",
+      "options": [
+        {
+          "id": "A",
+          "text": "27017"
+        },
+        {
+          "id": "B",
+          "text": "NIST SP 800-82"
+        },
+        {
+          "id": "C",
+          "text": "ISO/IEC 154088"
+        },
+        {
+          "id": "D",
+          "text": "NIST SP 800-144"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q145",
+      "page_number": 10,
+      "original_question_number": 10,
+      "question_text": "Which of the following is NOT one of the five layers of Hitachi's Lumada IoT platform?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Edge"
+        },
+        {
+          "id": "B",
+          "text": "Core"
+        },
+        {
+          "id": "C",
+          "text": "Analytics"
+        },
+        {
+          "id": "D",
+          "text": "Transport"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q146",
+      "page_number": 10,
+      "original_question_number": 11,
+      "question_text": "In the North Star BlueScope Steel smart-factory application, sensors are used to detect which environmental hazards?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Radiation and toxic gases"
+        },
+        {
+          "id": "B",
+          "text": "Network congestion and packet loss"
+        },
+        {
+          "id": "C",
+          "text": "Inventory shortages and production delays"
+        },
+        {
+          "id": "D",
+          "text": "Voltage fluctuations and cloud failures"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q147",
+      "page_number": 10,
+      "original_question_number": 12,
+      "question_text": "What technology does SmartLabel use to provide product-related information such as ingredients, allergens, and nutritional value to consumers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "RFID tag"
+        },
+        {
+          "id": "B",
+          "text": "Bluetooth beacon"
+        },
+        {
+          "id": "C",
+          "text": "QR code"
+        },
+        {
+          "id": "D",
+          "text": "GPS receiver"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q148",
+      "page_number": 10,
+      "original_question_number": 13,
+      "question_text": "In the Intellicup smart beverage-vending solution, what is integrated at the base of the IoT-enabled cup?",
+      "options": [
+        {
+          "id": "A",
+          "text": "GPS module"
+        },
+        {
+          "id": "B",
+          "text": "NFC chip"
+        },
+        {
+          "id": "C",
+          "text": "Temperature sensor"
+        },
+        {
+          "id": "D",
+          "text": "Wi-Fi router"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q149",
+      "page_number": 10,
+      "original_question_number": 14,
+      "question_text": "Which characteristic of a smart factory allows process parameters such as machine configuration, material flow, and temperature control to be optimally adjusted?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Flexibility"
+        },
+        {
+          "id": "B",
+          "text": "Isolation"
+        },
+        {
+          "id": "C",
+          "text": "Centralization"
+        },
+        {
+          "id": "D",
+          "text": "Redundancy"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q150",
+      "page_number": 10,
+      "original_question_number": 15,
+      "question_text": "Which network-security mechanism acts as a fence between a trusted internal network and an unauthorized external network and uses a set of rules to allow or block traffic?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypervisor"
+        },
+        {
+          "id": "B",
+          "text": "Firewall"
+        },
+        {
+          "id": "C",
+          "text": "Load balancer"
+        },
+        {
+          "id": "D",
+          "text": "Data logger"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q151",
+      "page_number": 11,
+      "original_question_number": 1,
+      "question_text": "What is the correct sequence of stages presented in the 110T healthcare architecture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sensing Processing Sending Learning -4 -9 -4 Storing"
+        },
+        {
+          "id": "B",
+          "text": "Sensing Sending Processing Storing -4 -4 -4 Learning"
+        },
+        {
+          "id": "C",
+          "text": "Sending Sensing Storing Processing -4 -4 -4 Learning"
+        },
+        {
+          "id": "D",
+          "text": "Sensing Learning Processing Sending -9 -4 -9 Storing"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q152",
+      "page_number": 11,
+      "original_question_number": 2,
+      "question_text": "Which parameters are used by the ADAMM Intelligent Asthma Monitoring device to predict pre-symptoms of an asthma attack?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Blood pressure, glucose level, and oxygen saturation"
+        },
+        {
+          "id": "B",
+          "text": "Body temperature, cough rate, and heart rate"
+        },
+        {
+          "id": "C",
+          "text": "Weight, respiration rate, and blood pressure"
+        },
+        {
+          "id": "D",
+          "text": "Skin temperature, blood glucose, and pulse pressure"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q153",
+      "page_number": 11,
+      "original_question_number": 3,
+      "question_text": "Which of the following is identified as a challenge in IloT-based healthcare systems?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unlimited computational capability of devices"
+        },
+        {
+          "id": "B",
+          "text": "Excessive on-device memory"
+        },
+        {
+          "id": "C",
+          "text": "Designing scalable algorithms without compromising security"
+        },
+        {
+          "id": "D",
+          "text": "Absence of mobile healthcare devices"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q154",
+      "page_number": 11,
+      "original_question_number": 4,
+      "question_text": "In the 110T maturity model for power plants, which stage immediately follows optimization?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Monitor"
+        },
+        {
+          "id": "B",
+          "text": "Control"
+        },
+        {
+          "id": "C",
+          "text": "Autonomy"
+        },
+        {
+          "id": "D",
+          "text": "Device autonomy"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q155",
+      "page_number": 11,
+      "original_question_number": 5,
+      "question_text": "Which communication technologies are associated with a Field Area Network in the power-plant communication network?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Zigbee and 6LoWPAN only"
+        },
+        {
+          "id": "B",
+          "text": "WiMAX, 8G, and 4G for wireless communication and Ethernet for wired communication"
+        },
+        {
+          "id": "C",
+          "text": "Bluetooth and NFC only"
+        },
+        {
+          "id": "D",
+          "text": "RFID and LoRa only"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q156",
+      "page_number": 11,
+      "original_question_number": 6,
+      "question_text": "In Advanced Metering Infrastructure (AMI), which component analyzes the data collected from smart meters?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Meter data acquisition system"
+        },
+        {
+          "id": "B",
+          "text": "Communication network"
+        },
+        {
+          "id": "C",
+          "text": "Meter data management system"
+        },
+        {
+          "id": "D",
+          "text": "Smart meter"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q157",
+      "page_number": 11,
+      "original_question_number": 7,
+      "question_text": "Which of the following is a function of inventory management?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increasing the probability of stock-outs"
+        },
+        {
+          "id": "B",
+          "text": "Protection against stock-outs"
+        },
+        {
+          "id": "C",
+          "text": "Eliminating all order cycles"
+        },
+        {
+          "id": "D",
+          "text": "Increasing production interruptions"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q158",
+      "page_number": 11,
+      "original_question_number": 8,
+      "question_text": "Which statement correctly describes a semi- passive RFID tag?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It has no battery and obtains all power from the RFID reader"
+        },
+        {
+          "id": "B",
+          "text": "It has an onboard battery and an active transmitter"
+        },
+        {
+          "id": "C",
+          "text": "It has an onboard battery to power the IC but does not have an active transmitter"
+        },
+        {
+          "id": "D",
+          "text": "It continuously broadcasts information as a beacon"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q159",
+      "page_number": 11,
+      "original_question_number": 9,
+      "question_text": "Which of the following information is included under \"comprehensive visibility\" provided by RFID-based inventory management?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inventory levels, expiration dates, item location, and forecast demand"
+        },
+        {
+          "id": "B",
+          "text": "Employee passwords, salaries, and attendance"
+        },
+        {
+          "id": "C",
+          "text": "Network IP addresses and routing tables only"
+        },
+        {
+          "id": "D",
+          "text": "Machine source code and operating-system files"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q160",
+      "page_number": 11,
+      "original_question_number": 10,
+      "question_text": "In software security, how is availability defined in the lecture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ratio of encrypted packets to total packets"
+        },
+        {
+          "id": "B",
+          "text": "Ratio of time of functioning to the total time"
+        },
+        {
+          "id": "C",
+          "text": "Ratio of authenticated users to total users"
+        },
+        {
+          "id": "D",
+          "text": "Ratio of successful attacks to failed attacks"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q161",
+      "page_number": 11,
+      "original_question_number": 11,
+      "question_text": "What is the primary purpose of network segmentation as a network-security technique?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To combine all network devices into a single unrestricted network"
+        },
+        {
+          "id": "B",
+          "text": "To divide the network into smaller parts and explicitly enforce security policies"
+        },
+        {
+          "id": "C",
+          "text": "To disable encryption between endpoints"
+        },
+        {
+          "id": "D",
+          "text": "To prevent the creation of virtual private networks"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q162",
+      "page_number": 11,
+      "original_question_number": 12,
+      "question_text": "How does IoT help address the cost barrier in facility management?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By increasing maintenance activities"
+        },
+        {
+          "id": "B",
+          "text": "By eliminating all installed devices"
+        },
+        {
+          "id": "C",
+          "text": "By increasing operating efficiency and reducing maintenance cost"
+        },
+        {
+          "id": "D",
+          "text": "By preventing the collection of facility data"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q163",
+      "page_number": 11,
+      "original_question_number": 13,
+      "question_text": "Which of the following is an application of analytics in facility management?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Determining the exact square-foot utilization of office space"
+        },
+        {
+          "id": "B",
+          "text": "Increasing manual inspection of every facility"
+        },
+        {
+          "id": "C",
+          "text": "Preventing remote monitoring"
+        },
+        {
+          "id": "D",
+          "text": "Eliminating data-driven decision-making"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q164",
+      "page_number": 11,
+      "original_question_number": 14,
+      "question_text": "Active RFID tags are classified into which two types?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inlays and hard tags"
+        },
+        {
+          "id": "B",
+          "text": "Wet tags and dry tags"
+        },
+        {
+          "id": "C",
+          "text": "Transponders and beacons"
+        },
+        {
+          "id": "D",
+          "text": "Passive and semi-passive tags"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q165",
+      "page_number": 11,
+      "original_question_number": 15,
+      "question_text": "Which mobile-device security component can identify attacks in advance and, through cloud- integrated security, help prevent an attack detected on one network branch from spreading to other branches?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Secure web gateway"
+        },
+        {
+          "id": "B",
+          "text": "RFID reader"
+        },
+        {
+          "id": "C",
+          "text": "Meter data acquisition system"
+        },
+        {
+          "id": "D",
+          "text": "Load balancer"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q166",
+      "page_number": 12,
+      "original_question_number": 1,
+      "question_text": "In the oil and gas industry workflow, what happens before data moves to a cloud-based analytics platform?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Predictive analytics is applied"
+        },
+        {
+          "id": "B",
+          "text": "IoT solutions are deployed at different locations"
+        },
+        {
+          "id": "C",
+          "text": "Data analysis is performed through extraction, transform, and load processes"
+        },
+        {
+          "id": "D",
+          "text": "Required maintenance is identified"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q167",
+      "page_number": 12,
+      "original_question_number": 2,
+      "question_text": "Which of the following is an objective of predictive maintenance using IoT in the chemical industry?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increase equipment breakdown"
+        },
+        {
+          "id": "B",
+          "text": "Address real-time issues and reduce equipment breakdown"
+        },
+        {
+          "id": "C",
+          "text": "Eliminate IoT analytics"
+        },
+        {
+          "id": "D",
+          "text": "Replace real-time monitoring with manual inspection"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q168",
+      "page_number": 12,
+      "original_question_number": 3,
+      "question_text": "How can IoT improve logistics in the chemical industry?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By preventing the use of RFID tags"
+        },
+        {
+          "id": "B",
+          "text": "By avoiding warehouse monitoring"
+        },
+        {
+          "id": "C",
+          "text": "By tracking product locations through sensors or RFID tags"
+        },
+        {
+          "id": "D",
+          "text": "By eliminating alert notifications"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q169",
+      "page_number": 12,
+      "original_question_number": 4,
+      "question_text": "Which elements are monitored m •t red in real time t to minimize supply-chain risk in the chemical industry?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Equipment, material, process, environment, and workers"
+        },
+        {
+          "id": "B",
+          "text": "Only equipment and workers"
+        },
+        {
+          "id": "C",
+          "text": "Only material and warehouse location"
+        },
+        {
+          "id": "D",
+          "text": "Customers, competitors, and advertisements"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q170",
+      "page_number": 12,
+      "original_question_number": 5,
+      "question_text": "Which of the following can IoT applications in the pharmaceutical industry help detect while examining drugs?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adverse Drug Reactions, effects of pharmaceutical excipients, and allergies"
+        },
+        {
+          "id": "B",
+          "text": "Only production cost"
+        },
+        {
+          "id": "C",
+          "text": "Only equipment temperature"
+        },
+        {
+          "id": "D",
+          "text": "Network routing failures only"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q171",
+      "page_number": 12,
+      "original_question_number": 6,
+      "question_text": "Which industrial control system can UAVs communicate with directly in an industrial environment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "RFID"
+        },
+        {
+          "id": "B",
+          "text": "SCADA"
+        },
+        {
+          "id": "C",
+          "text": "Bluetooth"
+        },
+        {
+          "id": "D",
+          "text": "GPS"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q172",
+      "page_number": 12,
+      "original_question_number": 7,
+      "question_text": "Which UAV technology generation introduces improved safety and regulatory features, platform and payload adaptability, intelligent piloting models, full autonomy, and airspace awareness?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Third Generation"
+        },
+        {
+          "id": "B",
+          "text": "Fourth Generation"
+        },
+        {
+          "id": "C",
+          "text": "Sixth Generation"
+        },
+        {
+          "id": "D",
+          "text": "Second Generation"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q173",
+      "page_number": 12,
+      "original_question_number": 8,
+      "question_text": "How can UAVs help optimize inputs in agricultural applications?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By increasing the use of water and fertilizer regardless of OT requirement"
+        },
+        {
+          "id": "B",
+          "text": "By optimizing the use of seed, fertilizer, and water"
+        },
+        {
+          "id": "C",
+          "text": "By eliminating crop-health monitoring"
+        },
+        {
+          "id": "D",
+          "text": "By replacing field measurements with manual estimates"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q174",
+      "page_number": 12,
+      "original_question_number": 9,
+      "question_text": "Which of the following is an advantage of UAVs for energy-management applications?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They require workers to climb power poles for every inspection"
+        },
+        {
+          "id": "B",
+          "text": "They can observe miles of transmission lines in a single flight"
+        },
+        {
+          "id": "C",
+          "text": "They cannot inspect wind turbines"
+        },
+        {
+          "id": "D",
+          "text": "They are restricted from monitoring solar panels"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q175",
+      "page_number": 12,
+      "original_question_number": 10,
+      "question_text": "Which activity is supported by UAVs in mining applications?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Regular surface surveys for optimized blast design"
+        },
+        {
+          "id": "B",
+          "text": "Increasing the probability of misfires"
+        },
+        {
+          "id": "C",
+          "text": "Eliminating site exploration"
+        },
+        {
+          "id": "D",
+          "text": "Preventing stockpile management"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q176",
+      "page_number": 12,
+      "original_question_number": 11,
+      "question_text": "Which healthcare task can be performed using UAVs?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Delivery of medicines, vaccines, defibrillators, and snake-bite serum"
+        },
+        {
+          "id": "B",
+          "text": "Replacement of all hospital medical equipment"
+        },
+        {
+          "id": "C",
+          "text": "Manufacture of drugs during flight"
+        },
+        {
+          "id": "D",
+          "text": "Elimination of laboratory testing"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q177",
+      "page_number": 12,
+      "original_question_number": 12,
+      "question_text": "In forestry applications, what can UAV-based remote sensing be used to measure for 3D mapping?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Carbon storage in biomass"
+        },
+        {
+          "id": "B",
+          "text": "Network bandwidth"
+        },
+        {
+          "id": "C",
+          "text": "Fuel consumption of vehicles"
+        },
+        {
+          "id": "D",
+          "text": "Pharmaceutical production rate"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q178",
+      "page_number": 12,
+      "original_question_number": 13,
+      "question_text": "Which of the following should be considered while evaluating the transformation of an existing process for Industry 4.0 adoption in a case study?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only the purchase cost of sensors"
+        },
+        {
+          "id": "B",
+          "text": "Sensors, actuators, networks, interoperability, automated fault detection and maintenance, and feedback control"
+        },
+        {
+          "id": "C",
+          "text": "Only employee attendance"
+        },
+        {
+          "id": "D",
+          "text": "Elimination of real-time and non-real-time data analysis"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q179",
+      "page_number": 12,
+      "original_question_number": 14,
+      "question_text": "Which communication technology was used by Transco Industries to monitor conveyor-belt systems in its mining-industry 110T implementation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bluetooth and Zigbee"
+        },
+        {
+          "id": "B",
+          "text": "Semtech LoRa devices and LoRaWAN"
+        },
+        {
+          "id": "C",
+          "text": "Wi-Fi and NFC"
+        },
+        {
+          "id": "D",
+          "text": "Ethernet and an RFID"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": null
+    },
+    {
+      "id": "q180",
+      "page_number": 12,
+      "original_question_number": 15,
+      "question_text": "What was one major benefit obtained from the IloT-based monitoring of conveyor-belt systems in the mining-industry case study?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increased dependence on manual inspection"
+        },
+        {
+          "id": "B",
+          "text": "Increased maintenance cost"
+        },
+        {
+          "id": "C",
+          "text": "Ability to obtain a holistic view of the conveyor- belt line and localize defects"
+        },
+        {
+          "id": "D",
+          "text": "Elimination of all sensing devices"
+        }
+      ],
+      "has_diagram": false,
+      "diagram_url": null,
+      "needs_review": false,
+      "review_note": "Verified from graded submission: user selected (C), evaluated as 'Yes, The answer is correct, Score: 1'."
+    }
+  ]
+}

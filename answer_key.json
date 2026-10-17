@@ -1,0 +1,1622 @@
+{
+  "q001": {
+    "correct_answer": "B",
+    "correct_option_text": "MQ-5",
+    "accepted_answer_raw": "B. MO-5",
+    "source_score": 1,
+    "page_number": 1,
+    "original_question_number": 1,
+    "explanation": "Source PDF Page 1, Question 1. Accepted answer: B. MO-5."
+  },
+  "q002": {
+    "correct_answer": "C",
+    "correct_option_text": "OQPSK",
+    "accepted_answer_raw": "C. OQPSK",
+    "source_score": 1,
+    "page_number": 1,
+    "original_question_number": 2,
+    "explanation": "Source PDF Page 1, Question 2. Accepted answer: C. OQPSK."
+  },
+  "q003": {
+    "correct_answer": "D",
+    "correct_option_text": "All of the above",
+    "accepted_answer_raw": "D. Al/ of the above",
+    "source_score": 1,
+    "page_number": 1,
+    "original_question_number": 3,
+    "explanation": "Source PDF Page 1, Question 3. Accepted answer: D. Al/ of the above."
+  },
+  "q004": {
+    "correct_answer": "A",
+    "correct_option_text": "100 kbps",
+    "accepted_answer_raw": "A. 100 kbps",
+    "source_score": 1,
+    "page_number": 1,
+    "original_question_number": 4,
+    "explanation": "Source PDF Page 1, Question 4. Accepted answer: A. 100 kbps."
+  },
+  "q005": {
+    "correct_answer": "C",
+    "correct_option_text": "UDP",
+    "accepted_answer_raw": "C. UDP",
+    "source_score": 1,
+    "page_number": 1,
+    "original_question_number": 5,
+    "explanation": "Source PDF Page 1, Question 5. Accepted answer: C. UDP."
+  },
+  "q006": {
+    "correct_answer": "D",
+    "correct_option_text": "Dsss",
+    "accepted_answer_raw": "D DSSS",
+    "source_score": 1,
+    "page_number": 1,
+    "original_question_number": 6,
+    "explanation": "Source PDF Page 1, Question 6. Accepted answer: D DSSS."
+  },
+  "q007": {
+    "correct_answer": "D",
+    "correct_option_text": "The highest and the lowest value of the physical quantity within which the sensor can actually sense",
+    "accepted_answer_raw": "D. The highest and the lowest value of the physical quantity within which the sensor can actually sense",
+    "source_score": 1,
+    "page_number": 1,
+    "original_question_number": 7,
+    "explanation": "Source PDF Page 1, Question 7. Accepted answer: D. The highest and the lowest value of the physical quantity within which the sensor can actually sense."
+  },
+  "q008": {
+    "correct_answer": "B",
+    "correct_option_text": "International Society of Automation",
+    "accepted_answer_raw": "B. International Society of Automation",
+    "source_score": 1,
+    "page_number": 1,
+    "original_question_number": 8,
+    "explanation": "Source PDF Page 1, Question 8. Accepted answer: B. International Society of Automation."
+  },
+  "q009": {
+    "correct_answer": "D",
+    "correct_option_text": "All of these",
+    "accepted_answer_raw": "D Al/ of these",
+    "source_score": 0,
+    "page_number": 1,
+    "original_question_number": 9,
+    "explanation": "Source PDF Page 1, Question 9. Accepted answer: D Al/ of these."
+  },
+  "q010": {
+    "correct_answer": "A",
+    "correct_option_text": "QoS O",
+    "accepted_answer_raw": "A QoSO",
+    "source_score": 1,
+    "page_number": 1,
+    "original_question_number": 10,
+    "explanation": "Source PDF Page 1, Question 10. Accepted answer: A QoSO."
+  },
+  "q011": {
+    "correct_answer": "C",
+    "correct_option_text": "Processor",
+    "accepted_answer_raw": "C. Processor",
+    "source_score": 1,
+    "page_number": 1,
+    "original_question_number": 11,
+    "explanation": "Source PDF Page 1, Question 11. Accepted answer: C. Processor."
+  },
+  "q012": {
+    "correct_answer": "C",
+    "correct_option_text": "Its response depends on the magnitude, direction, and orientation of the input parameter.",
+    "accepted_answer_raw": "C. Its response de depends on the magnitude, direction, and orientation of the input parameter:",
+    "source_score": 1,
+    "page_number": 1,
+    "original_question_number": 12,
+    "explanation": "Source PDF Page 1, Question 12. Accepted answer: C. Its response de depends on the magnitude, direction, and orientation of the input parameter:."
+  },
+  "q013": {
+    "correct_answer": "B",
+    "correct_option_text": "2400-2488.5 MHz",
+    "accepted_answer_raw": "B. 2400-2488.5 MHz",
+    "source_score": 1,
+    "page_number": 1,
+    "original_question_number": 13,
+    "explanation": "Source PDF Page 1, Question 13. Accepted answer: B. 2400-2488.5 MHz."
+  },
+  "q014": {
+    "correct_answer": "D",
+    "correct_option_text": "Topics",
+    "accepted_answer_raw": "D. Topics",
+    "source_score": 0,
+    "page_number": 1,
+    "original_question_number": 14,
+    "explanation": "Source PDF Page 1, Question 14. Accepted answer: D. Topics."
+  },
+  "q015": {
+    "correct_answer": "D",
+    "correct_option_text": "DTLS",
+    "accepted_answer_raw": "D. Topics",
+    "source_score": null,
+    "page_number": 1,
+    "original_question_number": 15,
+    "explanation": "Source PDF Page 1, Question 15. Accepted answer: D. Topics. Note: Accepted answer printed in PDF is 'D. Topics' while options are IoT protocols (A: MQTT, B: CoAP, C: AMQP, D: DTLS). Preserved option D as printed in source PDF."
+  },
+  "q016": {
+    "correct_answer": "B",
+    "correct_option_text": "Lighter, stronger, recyclable, and adaptive",
+    "accepted_answer_raw": "B. Lighter, stronger, recyclable, and adaptive",
+    "source_score": 1,
+    "page_number": 2,
+    "original_question_number": 1,
+    "explanation": "Source PDF Page 2, Question 1. Accepted answer: B. Lighter, stronger, recyclable, and adaptive."
+  },
+  "q017": {
+    "correct_answer": "C",
+    "correct_option_text": "Invention of the steam engine",
+    "accepted_answer_raw": "C. Invention of the steam engine",
+    "source_score": 1,
+    "page_number": 2,
+    "original_question_number": 2,
+    "explanation": "Source PDF Page 2, Question 2. Accepted answer: C. Invention of the steam engine."
+  },
+  "q018": {
+    "correct_answer": "B",
+    "correct_option_text": "Information and Communication Technology (ICD",
+    "accepted_answer_raw": "B. Information and Communication Technology (ICD",
+    "source_score": 1,
+    "page_number": 2,
+    "original_question_number": 3,
+    "explanation": "Source PDF Page 2, Question 3. Accepted answer: B. Information and Communication Technology (ICD."
+  },
+  "q019": {
+    "correct_answer": "B",
+    "correct_option_text": "Reliance on government subsidy",
+    "accepted_answer_raw": "B. Reliance on government subsidy",
+    "source_score": 1,
+    "page_number": 2,
+    "original_question_number": 4,
+    "explanation": "Source PDF Page 2, Question 4. Accepted answer: B. Reliance on government subsidy."
+  },
+  "q020": {
+    "correct_answer": "A",
+    "correct_option_text": "Learn, Do, Teach",
+    "accepted_answer_raw": "A. Learn, Do, Teach",
+    "source_score": 1,
+    "page_number": 2,
+    "original_question_number": 5,
+    "explanation": "Source PDF Page 2, Question 5. Accepted answer: A. Learn, Do, Teach."
+  },
+  "q021": {
+    "correct_answer": "A",
+    "correct_option_text": "Optimization algorithms",
+    "accepted_answer_raw": "A. Optimization algorithms",
+    "source_score": 1,
+    "page_number": 2,
+    "original_question_number": 6,
+    "explanation": "Source PDF Page 2, Question 6. Accepted answer: A. Optimization algorithms."
+  },
+  "q022": {
+    "correct_answer": "A",
+    "correct_option_text": "True",
+    "accepted_answer_raw": "A. True",
+    "source_score": 1,
+    "page_number": 2,
+    "original_question_number": 7,
+    "explanation": "Source PDF Page 2, Question 7. Accepted answer: A. True."
+  },
+  "q023": {
+    "correct_answer": "A",
+    "correct_option_text": "True",
+    "accepted_answer_raw": "A. True",
+    "source_score": 1,
+    "page_number": 2,
+    "original_question_number": 8,
+    "explanation": "Source PDF Page 2, Question 8. Accepted answer: A. True."
+  },
+  "q024": {
+    "correct_answer": "D",
+    "correct_option_text": "Cyber Physical Systems",
+    "accepted_answer_raw": "D. Cyber Physical Systems",
+    "source_score": 1,
+    "page_number": 2,
+    "original_question_number": 9,
+    "explanation": "Source PDF Page 2, Question 9. Accepted answer: D. Cyber Physical Systems."
+  },
+  "q025": {
+    "correct_answer": "A",
+    "correct_option_text": "Enterprise Resource Planning",
+    "accepted_answer_raw": "A. Enterprise Resource Planning",
+    "source_score": 1,
+    "page_number": 2,
+    "original_question_number": 10,
+    "explanation": "Source PDF Page 2, Question 10. Accepted answer: A. Enterprise Resource Planning."
+  },
+  "q026": {
+    "correct_answer": "B",
+    "correct_option_text": "All the actions required for a product from order to delivery",
+    "accepted_answer_raw": "B. All the actions required for a product from order to delivery",
+    "source_score": 1,
+    "page_number": 2,
+    "original_question_number": 11,
+    "explanation": "Source PDF Page 2, Question 11. Accepted answer: B. All the actions required for a product from order to delivery."
+  },
+  "q027": {
+    "correct_answer": "B",
+    "correct_option_text": "Value proposition, revenue streams, and technologies",
+    "accepted_answer_raw": "B. Valve proposition, revenue streams, and technologies",
+    "source_score": 1,
+    "page_number": 2,
+    "original_question_number": 12,
+    "explanation": "Source PDF Page 2, Question 12. Accepted answer: B. Valve proposition, revenue streams, and technologies."
+  },
+  "q028": {
+    "correct_answer": "D",
+    "correct_option_text": "Physical ledgers",
+    "accepted_answer_raw": "D. Physical ledgers",
+    "source_score": 1,
+    "page_number": 2,
+    "original_question_number": 13,
+    "explanation": "Source PDF Page 2, Question 13. Accepted answer: D. Physical ledgers."
+  },
+  "q029": {
+    "correct_answer": "A",
+    "correct_option_text": "I-IL-7",
+    "accepted_answer_raw": "A. ML-7",
+    "source_score": 1,
+    "page_number": 2,
+    "original_question_number": 14,
+    "explanation": "Source PDF Page 2, Question 14. Accepted answer: A. ML-7."
+  },
+  "q030": {
+    "correct_answer": "B",
+    "correct_option_text": "Flexibility, Adaptation, and Self-configuration",
+    "accepted_answer_raw": "B. Flexibility, Adaptation, and Self-configuration",
+    "source_score": 1,
+    "page_number": 2,
+    "original_question_number": 15,
+    "explanation": "Source PDF Page 2, Question 15. Accepted answer: B. Flexibility, Adaptation, and Self-configuration."
+  },
+  "q031": {
+    "correct_answer": "B",
+    "correct_option_text": "Interaction with the environment in an ongoing manner",
+    "accepted_answer_raw": "B. Interaction with the environment in an ongoing manner",
+    "source_score": 1,
+    "page_number": 3,
+    "original_question_number": 1,
+    "explanation": "Source PDF Page 3, Question 1. Accepted answer: B. Interaction with the environment in an ongoing manner."
+  },
+  "q032": {
+    "correct_answer": "A",
+    "correct_option_text": "Image-guided surgery and therapy -1",
+    "accepted_answer_raw": "A Image-guided surgery and therapy",
+    "source_score": 1,
+    "page_number": 3,
+    "original_question_number": 2,
+    "explanation": "Source PDF Page 3, Question 2. Accepted answer: A Image-guided surgery and therapy."
+  },
+  "q033": {
+    "correct_answer": "C",
+    "correct_option_text": "Cyber",
+    "accepted_answer_raw": "C. Cyber",
+    "source_score": 0,
+    "page_number": 3,
+    "original_question_number": 3,
+    "explanation": "Source PDF Page 3, Question 3. Accepted answer: C. Cyber."
+  },
+  "q034": {
+    "correct_answer": "B",
+    "correct_option_text": "Processing sensed data and managing external sensors/ devices",
+    "accepted_answer_raw": "B. Processing sensed data and managing external sensors/devices",
+    "source_score": 1,
+    "page_number": 3,
+    "original_question_number": 4,
+    "explanation": "Source PDF Page 3, Question 4. Accepted answer: B. Processing sensed data and managing external sensors/devices."
+  },
+  "q035": {
+    "correct_answer": "A",
+    "correct_option_text": "10",
+    "accepted_answer_raw": "A. 10",
+    "source_score": 1,
+    "page_number": 3,
+    "original_question_number": 5,
+    "explanation": "Source PDF Page 3, Question 5. Accepted answer: A. 10."
+  },
+  "q036": {
+    "correct_answer": "D",
+    "correct_option_text": "Remote Control",
+    "accepted_answer_raw": "D. Remote Control",
+    "source_score": 1,
+    "page_number": 3,
+    "original_question_number": 6,
+    "explanation": "Source PDF Page 3, Question 6. Accepted answer: D. Remote Control."
+  },
+  "q037": {
+    "correct_answer": "D",
+    "correct_option_text": "Lack of available data",
+    "accepted_answer_raw": "D. Lack of available data",
+    "source_score": 0,
+    "page_number": 3,
+    "original_question_number": 7,
+    "explanation": "Source PDF Page 3, Question 7. Accepted answer: D. Lack of available data."
+  },
+  "q038": {
+    "correct_answer": "D",
+    "correct_option_text": "Design aesthetics",
+    "accepted_answer_raw": "D. Design aesthetics",
+    "source_score": 1,
+    "page_number": 3,
+    "original_question_number": 8,
+    "explanation": "Source PDF Page 3, Question 8. Accepted answer: D. Design aesthetics."
+  },
+  "q039": {
+    "correct_answer": "A",
+    "correct_option_text": "Connection, Conversion, Cyber, Cognition, Configuration",
+    "accepted_answer_raw": "A Connection, Conversion, Cyber, Cognition, Configuration",
+    "source_score": 1,
+    "page_number": 3,
+    "original_question_number": 9,
+    "explanation": "Source PDF Page 3, Question 9. Accepted answer: A Connection, Conversion, Cyber, Cognition, Configuration."
+  },
+  "q040": {
+    "correct_answer": "B",
+    "correct_option_text": "Reactive computation",
+    "accepted_answer_raw": "B B. Reactive computation",
+    "source_score": 1,
+    "page_number": 3,
+    "original_question_number": 10,
+    "explanation": "Source PDF Page 3, Question 10. Accepted answer: B B. Reactive computation."
+  },
+  "q041": {
+    "correct_answer": "A",
+    "correct_option_text": "type of business software that combines organizational networking capacities with operations",
+    "accepted_answer_raw": "A A type of business software that combines organizational networking capacities with operations",
+    "source_score": 1,
+    "page_number": 3,
+    "original_question_number": 11,
+    "explanation": "Source PDF Page 3, Question 11. Accepted answer: A A type of business software that combines organizational networking capacities with operations."
+  },
+  "q042": {
+    "correct_answer": "B",
+    "correct_option_text": "Enhancing the present perception of reality",
+    "accepted_answer_raw": "B. Enhancing the present perception of reality",
+    "source_score": 1,
+    "page_number": 3,
+    "original_question_number": 12,
+    "explanation": "Source PDF Page 3, Question 12. Accepted answer: B. Enhancing the present perception of reality."
+  },
+  "q043": {
+    "correct_answer": "B",
+    "correct_option_text": "John McCarthy",
+    "accepted_answer_raw": "B. John McCarthy",
+    "source_score": 1,
+    "page_number": 3,
+    "original_question_number": 13,
+    "explanation": "Source PDF Page 3, Question 13. Accepted answer: B. John McCarthy."
+  },
+  "q044": {
+    "correct_answer": "C",
+    "correct_option_text": "program with Al uses a large knowledge base and a heuristic search method",
+    "accepted_answer_raw": "C. A program with Al uses a large knowledge base and a heuristic search method",
+    "source_score": 1,
+    "page_number": 3,
+    "original_question_number": 14,
+    "explanation": "Source PDF Page 3, Question 14. Accepted answer: C. A program with Al uses a large knowledge base and a heuristic search method."
+  },
+  "q045": {
+    "correct_answer": "D",
+    "correct_option_text": "All of the above",
+    "accepted_answer_raw": "D. All of the above",
+    "source_score": 1,
+    "page_number": 3,
+    "original_question_number": 15,
+    "explanation": "Source PDF Page 3, Question 15. Accepted answer: D. All of the above. Note: Verified from graded submission: user selected (D) All of the above, evaluated as 'Yes, The answer is correct, Score: 1'."
+  },
+  "q046": {
+    "correct_answer": "B",
+    "correct_option_text": "Threats to the software applications",
+    "accepted_answer_raw": "B. Threats to the software applications",
+    "source_score": 1,
+    "page_number": 4,
+    "original_question_number": 1,
+    "explanation": "Source PDF Page 4, Question 1. Accepted answer: B. Threats to the software applications."
+  },
+  "q047": {
+    "correct_answer": "A",
+    "correct_option_text": "type of malware that provides a facility to the attacker to lock users' computer files by using encryption and demand money to unlock them",
+    "accepted_answer_raw": "A A type of malware that provides a facility to the attacker to lock users' computer files by using encryption and demand money to unlock them",
+    "source_score": 1,
+    "page_number": 4,
+    "original_question_number": 2,
+    "explanation": "Source PDF Page 4, Question 2. Accepted answer: A A type of malware that provides a facility to the attacker to lock users' computer files by using encryption and demand money to unlock them."
+  },
+  "q048": {
+    "correct_answer": "D",
+    "correct_option_text": "All of the above",
+    "accepted_answer_raw": "D. All of the above",
+    "source_score": 1,
+    "page_number": 4,
+    "original_question_number": 3,
+    "explanation": "Source PDF Page 4, Question 3. Accepted answer: D. All of the above."
+  },
+  "q049": {
+    "correct_answer": "B",
+    "correct_option_text": "The Industrial Revolution, The Internet Revolution, The Industrial Internet",
+    "accepted_answer_raw": "B. The Industrial Revolution, The Internet Revolution, The Industrial Internet",
+    "source_score": 1,
+    "page_number": 4,
+    "original_question_number": 4,
+    "explanation": "Source PDF Page 4, Question 4. Accepted answer: B. The Industrial Revolution, The Internet Revolution, The Industrial Internet."
+  },
+  "q050": {
+    "correct_answer": "B",
+    "correct_option_text": "It created a bad working environment and inefficient processes",
+    "accepted_answer_raw": "B. It created a bad working environment and inefficient processes",
+    "source_score": 1,
+    "page_number": 4,
+    "original_question_number": 5,
+    "explanation": "Source PDF Page 4, Question 5. Accepted answer: B. It created a bad working environment and inefficient processes."
+  },
+  "q051": {
+    "correct_answer": "D",
+    "correct_option_text": "Manual Control Unit",
+    "accepted_answer_raw": "D. Manual Control unit",
+    "source_score": 1,
+    "page_number": 4,
+    "original_question_number": 6,
+    "explanation": "Source PDF Page 4, Question 6. Accepted answer: D. Manual Control unit."
+  },
+  "q052": {
+    "correct_answer": "A",
+    "correct_option_text": "Electronics",
+    "accepted_answer_raw": "A Electronics",
+    "source_score": 0,
+    "page_number": 4,
+    "original_question_number": 7,
+    "explanation": "Source PDF Page 4, Question 7. Accepted answer: A Electronics."
+  },
+  "q053": {
+    "correct_answer": "C",
+    "correct_option_text": "Supervised control: Self-configure, Self-optimize, Self-adjust",
+    "accepted_answer_raw": "C. Supervised control: Self-configure, Self-optimize, Self- adjust",
+    "source_score": 1,
+    "page_number": 4,
+    "original_question_number": 8,
+    "explanation": "Source PDF Page 4, Question 8. Accepted answer: C. Supervised control: Self-configure, Self-optimize, Self- adjust."
+  },
+  "q054": {
+    "correct_answer": "B",
+    "correct_option_text": "Because leaving security to individual 110T implementers is dangerous and every weak line puts the whole factory at risk.",
+    "accepted_answer_raw": "B. Because leaving security to individual 110T implementers is dangerous and every weak line puts the whole factory at risk.",
+    "source_score": 1,
+    "page_number": 4,
+    "original_question_number": 9,
+    "explanation": "Source PDF Page 4, Question 9. Accepted answer: B. Because leaving security to individual 110T implementers is dangerous and every weak line puts the whole factory at risk.."
+  },
+  "q055": {
+    "correct_answer": "D",
+    "correct_option_text": "They provide early disaster warning, monitor working conditions, and help locate miners.",
+    "accepted_answer_raw": "D. They provide early disaster warning monitor working conditions, and help locate miners.",
+    "source_score": 1,
+    "page_number": 4,
+    "original_question_number": 10,
+    "explanation": "Source PDF Page 4, Question 10. Accepted answer: D. They provide early disaster warning monitor working conditions, and help locate miners.."
+  },
+  "q056": {
+    "correct_answer": "B",
+    "correct_option_text": "General Electric (GE)",
+    "accepted_answer_raw": "B. General Electric",
+    "source_score": 1,
+    "page_number": 4,
+    "original_question_number": 11,
+    "explanation": "Source PDF Page 4, Question 11. Accepted answer: B. General Electric."
+  },
+  "q057": {
+    "correct_answer": "B",
+    "correct_option_text": "Via a spinning impeller that sends signals when milk flows",
+    "accepted_answer_raw": "B. Via a spinning impeller that sends signals when milk flows",
+    "source_score": 1,
+    "page_number": 4,
+    "original_question_number": 12,
+    "explanation": "Source PDF Page 4, Question 12. Accepted answer: B. Via a spinning impeller that sends signals when milk flows."
+  },
+  "q058": {
+    "correct_answer": "C",
+    "correct_option_text": "ADC -1",
+    "accepted_answer_raw": "C. ADC",
+    "source_score": 1,
+    "page_number": 4,
+    "original_question_number": 13,
+    "explanation": "Source PDF Page 4, Question 13. Accepted answer: C. ADC."
+  },
+  "q059": {
+    "correct_answer": "B",
+    "correct_option_text": "Sensor-based equipment status monitoring and failure detection.",
+    "accepted_answer_raw": "B. Sensor-based equipment status monitoring and failure detection.",
+    "source_score": 1,
+    "page_number": 4,
+    "original_question_number": 14,
+    "explanation": "Source PDF Page 4, Question 14. Accepted answer: B. Sensor-based equipment status monitoring and failure detection.."
+  },
+  "q060": {
+    "correct_answer": "B",
+    "correct_option_text": "False",
+    "accepted_answer_raw": "B. False",
+    "source_score": 1,
+    "page_number": 4,
+    "original_question_number": 15,
+    "explanation": "Source PDF Page 4, Question 15. Accepted answer: B. False."
+  },
+  "q061": {
+    "correct_answer": "B",
+    "correct_option_text": "Kaeser Kompressoren",
+    "accepted_answer_raw": "B. Kaeser Kompressoren",
+    "source_score": 1,
+    "page_number": 5,
+    "original_question_number": 1,
+    "explanation": "Source PDF Page 5, Question 1. Accepted answer: B. Kaeser Kompressoren."
+  },
+  "q062": {
+    "correct_answer": "C",
+    "correct_option_text": "Lumada -1",
+    "accepted_answer_raw": "C. Lumada",
+    "source_score": 1,
+    "page_number": 5,
+    "original_question_number": 2,
+    "explanation": "Source PDF Page 5, Question 2. Accepted answer: C. Lumada."
+  },
+  "q063": {
+    "correct_answer": "B",
+    "correct_option_text": "Maersk",
+    "accepted_answer_raw": "B. Maersk",
+    "source_score": 1,
+    "page_number": 5,
+    "original_question_number": 3,
+    "explanation": "Source PDF Page 5, Question 3. Accepted answer: B. Maersk."
+  },
+  "q064": {
+    "correct_answer": "D",
+    "correct_option_text": "Post-purchase cost reduction",
+    "accepted_answer_raw": "D. Post-purchase cost reduction",
+    "source_score": 1,
+    "page_number": 5,
+    "original_question_number": 4,
+    "explanation": "Source PDF Page 5, Question 4. Accepted answer: D. Post-purchase cost reduction."
+  },
+  "q065": {
+    "correct_answer": "B",
+    "correct_option_text": "Asset-Sharing Model",
+    "accepted_answer_raw": "B. Asset-Sharing Model",
+    "source_score": 1,
+    "page_number": 5,
+    "original_question_number": 5,
+    "explanation": "Source PDF Page 5, Question 5. Accepted answer: B. Asset-Sharing Model."
+  },
+  "q066": {
+    "correct_answer": "C",
+    "correct_option_text": "Platform-as-a-Service (PaaS)",
+    "accepted_answer_raw": "C. Platform-as-a-Service (PaaS)",
+    "source_score": 1,
+    "page_number": 5,
+    "original_question_number": 6,
+    "explanation": "Source PDF Page 5, Question 6. Accepted answer: C. Platform-as-a-Service (PaaS)."
+  },
+  "q067": {
+    "correct_answer": "A",
+    "correct_option_text": "Service-Oriented Business Model",
+    "accepted_answer_raw": "A Service-Oriented Business Mode/",
+    "source_score": 1,
+    "page_number": 5,
+    "original_question_number": 7,
+    "explanation": "Source PDF Page 5, Question 7. Accepted answer: A Service-Oriented Business Mode/."
+  },
+  "q068": {
+    "correct_answer": "D",
+    "correct_option_text": "Number of fatalities",
+    "accepted_answer_raw": "D. Number of fatalities",
+    "source_score": 1,
+    "page_number": 5,
+    "original_question_number": 8,
+    "explanation": "Source PDF Page 5, Question 8. Accepted answer: D. Number of fatalities."
+  },
+  "q069": {
+    "correct_answer": "A",
+    "correct_option_text": "To initiate, conceptualize, and rigorously test innovations before market launch -1",
+    "accepted_answer_raw": "A To initiate, conceptualize, and rigorously test innovations before market launch",
+    "source_score": 1,
+    "page_number": 5,
+    "original_question_number": 9,
+    "explanation": "Source PDF Page 5, Question 9. Accepted answer: A To initiate, conceptualize, and rigorously test innovations before market launch."
+  },
+  "q070": {
+    "correct_answer": "C",
+    "correct_option_text": "Values",
+    "accepted_answer_raw": "C. Valves",
+    "source_score": 1,
+    "page_number": 5,
+    "original_question_number": 10,
+    "explanation": "Source PDF Page 5, Question 10. Accepted answer: C. Valves."
+  },
+  "q071": {
+    "correct_answer": "D",
+    "correct_option_text": "Effect",
+    "accepted_answer_raw": "D. Effect",
+    "source_score": 1,
+    "page_number": 5,
+    "original_question_number": 11,
+    "explanation": "Source PDF Page 5, Question 11. Accepted answer: D. Effect."
+  },
+  "q072": {
+    "correct_answer": "B",
+    "correct_option_text": "Operations domain",
+    "accepted_answer_raw": "B. Operations domain",
+    "source_score": 1,
+    "page_number": 5,
+    "original_question_number": 12,
+    "explanation": "Source PDF Page 5, Question 12. Accepted answer: B. Operations domain."
+  },
+  "q073": {
+    "correct_answer": "A",
+    "correct_option_text": "Information domain and Application domain",
+    "accepted_answer_raw": "A Information domain and Application domain",
+    "source_score": 1,
+    "page_number": 5,
+    "original_question_number": 13,
+    "explanation": "Source PDF Page 5, Question 13. Accepted answer: A Information domain and Application domain."
+  },
+  "q074": {
+    "correct_answer": "D",
+    "correct_option_text": "Philanthropy",
+    "accepted_answer_raw": "D. Philanthropy",
+    "source_score": 1,
+    "page_number": 5,
+    "original_question_number": 14,
+    "explanation": "Source PDF Page 5, Question 14. Accepted answer: D. Philanthropy."
+  },
+  "q075": {
+    "correct_answer": "C",
+    "correct_option_text": "Value Capturing Mechanism",
+    "accepted_answer_raw": "C. Valve Capturing Mechanism",
+    "source_score": 1,
+    "page_number": 5,
+    "original_question_number": 15,
+    "explanation": "Source PDF Page 5, Question 15. Accepted answer: C. Valve Capturing Mechanism."
+  },
+  "q076": {
+    "correct_answer": "A",
+    "correct_option_text": "Improving visibility",
+    "accepted_answer_raw": "A Improving visibility",
+    "source_score": 1,
+    "page_number": 6,
+    "original_question_number": 1,
+    "explanation": "Source PDF Page 6, Question 1. Accepted answer: A Improving visibility."
+  },
+  "q077": {
+    "correct_answer": "C",
+    "correct_option_text": "Magnetostrictive sensor",
+    "accepted_answer_raw": "C. Magnetostrictive sensor",
+    "source_score": 1,
+    "page_number": 6,
+    "original_question_number": 2,
+    "explanation": "Source PDF Page 6, Question 2. Accepted answer: C. Magnetostrictive sensor."
+  },
+  "q078": {
+    "correct_answer": "D",
+    "correct_option_text": "9 bits",
+    "accepted_answer_raw": "D 9bits",
+    "source_score": 1,
+    "page_number": 6,
+    "original_question_number": 3,
+    "explanation": "Source PDF Page 6, Question 3. Accepted answer: D 9bits."
+  },
+  "q079": {
+    "correct_answer": "A",
+    "correct_option_text": "The ability to detect a particular gas in a mixture of different gases",
+    "accepted_answer_raw": "A The ability to detect a particular gas in a mixture of different gases",
+    "source_score": 1,
+    "page_number": 6,
+    "original_question_number": 4,
+    "explanation": "Source PDF Page 6, Question 4. Accepted answer: A The ability to detect a particular gas in a mixture of different gases."
+  },
+  "q080": {
+    "correct_answer": "C",
+    "correct_option_text": "It decreases",
+    "accepted_answer_raw": "C. It decreases",
+    "source_score": 1,
+    "page_number": 6,
+    "original_question_number": 5,
+    "explanation": "Source PDF Page 6, Question 5. Accepted answer: C. It decreases."
+  },
+  "q081": {
+    "correct_answer": "B",
+    "correct_option_text": "up to 10",
+    "accepted_answer_raw": "B. Up to IO",
+    "source_score": 0,
+    "page_number": 6,
+    "original_question_number": 6,
+    "explanation": "Source PDF Page 6, Question 6. Accepted answer: B. Up to IO."
+  },
+  "q082": {
+    "correct_answer": "A",
+    "correct_option_text": "Implicit",
+    "accepted_answer_raw": "A Implicit",
+    "source_score": 1,
+    "page_number": 6,
+    "original_question_number": 7,
+    "explanation": "Source PDF Page 6, Question 7. Accepted answer: A Implicit."
+  },
+  "q083": {
+    "correct_answer": "B",
+    "correct_option_text": "IEEE 802.10",
+    "accepted_answer_raw": "B. IEEE802.1Q",
+    "source_score": 1,
+    "page_number": 6,
+    "original_question_number": 8,
+    "explanation": "Source PDF Page 6, Question 8. Accepted answer: B. IEEE802.1Q."
+  },
+  "q084": {
+    "correct_answer": "D",
+    "correct_option_text": "82",
+    "accepted_answer_raw": "D 32",
+    "source_score": 1,
+    "page_number": 6,
+    "original_question_number": 9,
+    "explanation": "Source PDF Page 6, Question 9. Accepted answer: D 32."
+  },
+  "q085": {
+    "correct_answer": "C",
+    "correct_option_text": "18.56 MHz",
+    "accepted_answer_raw": "C. 13.56 MHz",
+    "source_score": 0,
+    "page_number": 6,
+    "original_question_number": 10,
+    "explanation": "Source PDF Page 6, Question 10. Accepted answer: C. 13.56 MHz."
+  },
+  "q086": {
+    "correct_answer": "A",
+    "correct_option_text": "CAN (Controller Area Network)",
+    "accepted_answer_raw": "A CAN (Controller Area Network)",
+    "source_score": 1,
+    "page_number": 6,
+    "original_question_number": 11,
+    "explanation": "Source PDF Page 6, Question 11. Accepted answer: A CAN (Controller Area Network)."
+  },
+  "q087": {
+    "correct_answer": "B",
+    "correct_option_text": "It supports Adaptive Frequency Hopping (AFH)",
+    "accepted_answer_raw": "B. It supports Adaptive Frequency Hopping (AFH)",
+    "source_score": 1,
+    "page_number": 6,
+    "original_question_number": 12,
+    "explanation": "Source PDF Page 6, Question 12. Accepted answer: B. It supports Adaptive Frequency Hopping (AFH)."
+  },
+  "q088": {
+    "correct_answer": "D",
+    "correct_option_text": "6-Nines (99.9999%) .",
+    "accepted_answer_raw": "D 6-Nines (99.9999%)",
+    "source_score": 0,
+    "page_number": 6,
+    "original_question_number": 13,
+    "explanation": "Source PDF Page 6, Question 13. Accepted answer: D 6-Nines (99.9999%)."
+  },
+  "q089": {
+    "correct_answer": "B",
+    "correct_option_text": "Eliminating the load on the core network",
+    "accepted_answer_raw": "B. Eliminating the load on the core network",
+    "source_score": 1,
+    "page_number": 6,
+    "original_question_number": 14,
+    "explanation": "Source PDF Page 6, Question 14. Accepted answer: B. Eliminating the load on the core network."
+  },
+  "q090": {
+    "correct_answer": "C",
+    "correct_option_text": "It suffers from high penetration loss and shadowing",
+    "accepted_answer_raw": "C. It suffers from high penetration loss and shadowing",
+    "source_score": 1,
+    "page_number": 6,
+    "original_question_number": 15,
+    "explanation": "Source PDF Page 6, Question 15. Accepted answer: C. It suffers from high penetration loss and shadowing."
+  },
+  "q091": {
+    "correct_answer": "C",
+    "correct_option_text": "Chirp Spread Spectrum (CSS)",
+    "accepted_answer_raw": "C. Chirp spread Spectrum (CSS)",
+    "source_score": 1,
+    "page_number": 7,
+    "original_question_number": 1,
+    "explanation": "Source PDF Page 7, Question 1. Accepted answer: C. Chirp spread Spectrum (CSS)."
+  },
+  "q092": {
+    "correct_answer": "A",
+    "correct_option_text": "Up to 100 bits per second",
+    "accepted_answer_raw": "A up to 100 bits per second",
+    "source_score": 0,
+    "page_number": 7,
+    "original_question_number": 2,
+    "explanation": "Source PDF Page 7, Question 2. Accepted answer: A up to 100 bits per second."
+  },
+  "q093": {
+    "correct_answer": "B",
+    "correct_option_text": "10 to 100 meters",
+    "accepted_answer_raw": "B. 10 to 100 meters",
+    "source_score": 1,
+    "page_number": 7,
+    "original_question_number": 3,
+    "explanation": "Source PDF Page 7, Question 3. Accepted answer: B. 10 to 100 meters."
+  },
+  "q094": {
+    "correct_answer": "D",
+    "correct_option_text": "Router",
+    "accepted_answer_raw": "D. Router",
+    "source_score": 1,
+    "page_number": 7,
+    "original_question_number": 4,
+    "explanation": "Source PDF Page 7, Question 4. Accepted answer: D. Router."
+  },
+  "q095": {
+    "correct_answer": "A",
+    "correct_option_text": "XCTU",
+    "accepted_answer_raw": "A XCTU",
+    "source_score": 1,
+    "page_number": 7,
+    "original_question_number": 5,
+    "explanation": "Source PDF Page 7, Question 5. Accepted answer: A XCTU."
+  },
+  "q096": {
+    "correct_answer": "C",
+    "correct_option_text": "Descriptive Analytics",
+    "accepted_answer_raw": "C. Descriptive Analytics",
+    "source_score": 1,
+    "page_number": 7,
+    "original_question_number": 6,
+    "explanation": "Source PDF Page 7, Question 6. Accepted answer: C. Descriptive Analytics."
+  },
+  "q097": {
+    "correct_answer": "A",
+    "correct_option_text": "Service-Oriented Architecture (SOA)",
+    "accepted_answer_raw": "A Service-Oriented Architecture (SOA)",
+    "source_score": 1,
+    "page_number": 7,
+    "original_question_number": 7,
+    "explanation": "Source PDF Page 7, Question 7. Accepted answer: A Service-Oriented Architecture (SOA)."
+  },
+  "q098": {
+    "correct_answer": "D",
+    "correct_option_text": "IoT Gateway",
+    "accepted_answer_raw": "D. IoT Gateway",
+    "source_score": 0,
+    "page_number": 7,
+    "original_question_number": 8,
+    "explanation": "Source PDF Page 7, Question 8. Accepted answer: D. IoT Gateway."
+  },
+  "q099": {
+    "correct_answer": "B",
+    "correct_option_text": "To detect the weeds and generate coordinates",
+    "accepted_answer_raw": "B. To detect the weeds and generate coordinates",
+    "source_score": 1,
+    "page_number": 7,
+    "original_question_number": 9,
+    "explanation": "Source PDF Page 7, Question 9. Accepted answer: B. To detect the weeds and generate coordinates."
+  },
+  "q100": {
+    "correct_answer": "C",
+    "correct_option_text": "Cognitive Engine",
+    "accepted_answer_raw": "C. Cognitive Engine",
+    "source_score": 1,
+    "page_number": 7,
+    "original_question_number": 10,
+    "explanation": "Source PDF Page 7, Question 10. Accepted answer: C. Cognitive Engine."
+  },
+  "q101": {
+    "correct_answer": "D",
+    "correct_option_text": "Synthesis and analysis to build knowledge for decision making",
+    "accepted_answer_raw": "D. Synthesis and analysis to build knowledge for decision making",
+    "source_score": 1,
+    "page_number": 7,
+    "original_question_number": 11,
+    "explanation": "Source PDF Page 7, Question 11. Accepted answer: D. Synthesis and analysis to build knowledge for decision making."
+  },
+  "q102": {
+    "correct_answer": "A",
+    "correct_option_text": "Administrative module",
+    "accepted_answer_raw": "A Administrative module",
+    "source_score": 0,
+    "page_number": 7,
+    "original_question_number": 12,
+    "explanation": "Source PDF Page 7, Question 12. Accepted answer: A Administrative module."
+  },
+  "q103": {
+    "correct_answer": "B",
+    "correct_option_text": "The standard value of the process parameter for controlled operation",
+    "accepted_answer_raw": "B. The standard valve of the process parameter for controlled operation",
+    "source_score": 1,
+    "page_number": 7,
+    "original_question_number": 13,
+    "explanation": "Source PDF Page 7, Question 13. Accepted answer: B. The standard valve of the process parameter for controlled operation."
+  },
+  "q104": {
+    "correct_answer": "C",
+    "correct_option_text": "Open Loop Control",
+    "accepted_answer_raw": "C. Open Loop Control",
+    "source_score": 1,
+    "page_number": 7,
+    "original_question_number": 14,
+    "explanation": "Source PDF Page 7, Question 14. Accepted answer: C. Open Loop Control."
+  },
+  "q105": {
+    "correct_answer": "D",
+    "correct_option_text": "Remote Telemetry Units (RTUs)",
+    "accepted_answer_raw": "D Remote Telemetr Units (R T Us)",
+    "source_score": 1,
+    "page_number": 7,
+    "original_question_number": 15,
+    "explanation": "Source PDF Page 7, Question 15. Accepted answer: D Remote Telemetr Units (R T Us)."
+  },
+  "q106": {
+    "correct_answer": "D",
+    "correct_option_text": "Prognostic analytics",
+    "accepted_answer_raw": "D. Prognostic analytics",
+    "source_score": 1,
+    "page_number": 8,
+    "original_question_number": 1,
+    "explanation": "Source PDF Page 8, Question 1. Accepted answer: D. Prognostic analytics."
+  },
+  "q107": {
+    "correct_answer": "C",
+    "correct_option_text": "Apache Storm",
+    "accepted_answer_raw": "C. Apache Storm",
+    "source_score": 1,
+    "page_number": 8,
+    "original_question_number": 2,
+    "explanation": "Source PDF Page 8, Question 2. Accepted answer: C. Apache Storm."
+  },
+  "q108": {
+    "correct_answer": "A",
+    "correct_option_text": "FCM allows a data point to belong to more than one cluster",
+    "accepted_answer_raw": "A FCM allows a data point to belong to more than one cluster",
+    "source_score": 1,
+    "page_number": 8,
+    "original_question_number": 3,
+    "explanation": "Source PDF Page 8, Question 3. Accepted answer: A FCM allows a data point to belong to more than one cluster."
+  },
+  "q109": {
+    "correct_answer": "D",
+    "correct_option_text": "Regression",
+    "accepted_answer_raw": "D. Regression",
+    "source_score": 1,
+    "page_number": 8,
+    "original_question_number": 4,
+    "explanation": "Source PDF Page 8, Question 4. Accepted answer: D. Regression."
+  },
+  "q110": {
+    "correct_answer": "B",
+    "correct_option_text": "RL utilizes a reward function that acts as feedback to the agent",
+    "accepted_answer_raw": "B. RL utilizes a reward function that acts as feedback feed back to . the agent",
+    "source_score": 1,
+    "page_number": 8,
+    "original_question_number": 5,
+    "explanation": "Source PDF Page 8, Question 5. Accepted answer: B. RL utilizes a reward function that acts as feedback feed back to . the agent."
+  },
+  "q111": {
+    "correct_answer": "B",
+    "correct_option_text": "Deep learning is an \"end-to-end learning\" process that extracts features on its own",
+    "accepted_answer_raw": "B. Deep learning is an \"end-to-end learning\" process that extracts features on its own",
+    "source_score": 1,
+    "page_number": 8,
+    "original_question_number": 6,
+    "explanation": "Source PDF Page 8, Question 6. Accepted answer: B. Deep learning is an \"end-to-end learning\" process that extracts features on its own."
+  },
+  "q112": {
+    "correct_answer": "D",
+    "correct_option_text": "TOSHIBA",
+    "accepted_answer_raw": "D. TOSHIBA",
+    "source_score": 1,
+    "page_number": 8,
+    "original_question_number": 7,
+    "explanation": "Source PDF Page 8, Question 7. Accepted answer: D. TOSHIBA."
+  },
+  "q113": {
+    "correct_answer": "A",
+    "correct_option_text": "Industrial Machinery Catalyst from Siemens",
+    "accepted_answer_raw": "A Industrial Machinery Catalyst from Siemens",
+    "source_score": 1,
+    "page_number": 8,
+    "original_question_number": 8,
+    "explanation": "Source PDF Page 8, Question 8. Accepted answer: A Industrial Machinery Catalyst from Siemens."
+  },
+  "q114": {
+    "correct_answer": "C",
+    "correct_option_text": "Hybrid Cloud -1",
+    "accepted_answer_raw": "C. Hybrid Cloud",
+    "source_score": 1,
+    "page_number": 8,
+    "original_question_number": 9,
+    "explanation": "Source PDF Page 8, Question 9. Accepted answer: C. Hybrid Cloud."
+  },
+  "q115": {
+    "correct_answer": "B",
+    "correct_option_text": "GE Predix",
+    "accepted_answer_raw": "B. GE Predix",
+    "source_score": 0,
+    "page_number": 8,
+    "original_question_number": 10,
+    "explanation": "Source PDF Page 8, Question 10. Accepted answer: B. GE Predix."
+  },
+  "q116": {
+    "correct_answer": "B",
+    "correct_option_text": "RESTful format",
+    "accepted_answer_raw": "B. RESTful format",
+    "source_score": 0,
+    "page_number": 8,
+    "original_question_number": 11,
+    "explanation": "Source PDF Page 8, Question 11. Accepted answer: B. RESTful format."
+  },
+  "q117": {
+    "correct_answer": "C",
+    "correct_option_text": "Meshify",
+    "accepted_answer_raw": "C. Meshify",
+    "source_score": 1,
+    "page_number": 8,
+    "original_question_number": 12,
+    "explanation": "Source PDF Page 8, Question 12. Accepted answer: C. Meshify."
+  },
+  "q118": {
+    "correct_answer": "A",
+    "correct_option_text": "Device decommission",
+    "accepted_answer_raw": "A Device decommission",
+    "source_score": 1,
+    "page_number": 8,
+    "original_question_number": 13,
+    "explanation": "Source PDF Page 8, Question 13. Accepted answer: A Device decommission."
+  },
+  "q119": {
+    "correct_answer": "C",
+    "correct_option_text": "Quantifiable",
+    "accepted_answer_raw": "C. Quantifiable",
+    "source_score": 1,
+    "page_number": 8,
+    "original_question_number": 14,
+    "explanation": "Source PDF Page 8, Question 14. Accepted answer: C. Quantifiable."
+  },
+  "q120": {
+    "correct_answer": "A",
+    "correct_option_text": "By identifying useful data and reducing the amount of raw data sent to the cloud",
+    "accepted_answer_raw": "A By identifying useful data and reducing the amount of raw data sent to the cloud",
+    "source_score": 1,
+    "page_number": 8,
+    "original_question_number": 15,
+    "explanation": "Source PDF Page 8, Question 15. Accepted answer: A By identifying useful data and reducing the amount of raw data sent to the cloud."
+  },
+  "q121": {
+    "correct_answer": "B",
+    "correct_option_text": "By performing prior filtration at the edge",
+    "accepted_answer_raw": "B. By performing prior filtration at the edge",
+    "source_score": 1,
+    "page_number": 9,
+    "original_question_number": 1,
+    "explanation": "Source PDF Page 9, Question 1. Accepted answer: B. By performing prior filtration at the edge."
+  },
+  "q122": {
+    "correct_answer": "A",
+    "correct_option_text": "Merging real-time and non-real-time workloads",
+    "accepted_answer_raw": "A Merging real-time and non-real-time workloads",
+    "source_score": 1,
+    "page_number": 9,
+    "original_question_number": 2,
+    "explanation": "Source PDF Page 9, Question 2. Accepted answer: A Merging real-time and non-real-time workloads."
+  },
+  "q123": {
+    "correct_answer": "C",
+    "correct_option_text": "Crosser",
+    "accepted_answer_raw": "C. Crosser",
+    "source_score": 0,
+    "page_number": 9,
+    "original_question_number": 3,
+    "explanation": "Source PDF Page 9, Question 3. Accepted answer: C. Crosser."
+  },
+  "q124": {
+    "correct_answer": "B",
+    "correct_option_text": "To check whether an element belongs to a vector -1",
+    "accepted_answer_raw": "B. To check whether an element belongs to a vector",
+    "source_score": 1,
+    "page_number": 9,
+    "original_question_number": 4,
+    "explanation": "Source PDF Page 9, Question 4. Accepted answer: B. To check whether an element belongs to a vector."
+  },
+  "q125": {
+    "correct_answer": "C",
+    "correct_option_text": "Ten-fold cross-validation",
+    "accepted_answer_raw": "C. Ten-fold cross-validation",
+    "source_score": 1,
+    "page_number": 9,
+    "original_question_number": 5,
+    "explanation": "Source PDF Page 9, Question 5. Accepted answer: C. Ten-fold cross-validation."
+  },
+  "q126": {
+    "correct_answer": "D",
+    "correct_option_text": "Dicto",
+    "accepted_answer_raw": "D. Dicto",
+    "source_score": 1,
+    "page_number": 9,
+    "original_question_number": 6,
+    "explanation": "Source PDF Page 9, Question 6. Accepted answer: D. Dicto."
+  },
+  "q127": {
+    "correct_answer": "C",
+    "correct_option_text": "Redundancy mitigation",
+    "accepted_answer_raw": "C. Redundancy mitigation",
+    "source_score": 1,
+    "page_number": 9,
+    "original_question_number": 7,
+    "explanation": "Source PDF Page 9, Question 7. Accepted answer: C. Redundancy mitigation."
+  },
+  "q128": {
+    "correct_answer": "D",
+    "correct_option_text": "Yet Another Resource Negotiator",
+    "accepted_answer_raw": "D. Yet Another Resource Negotiator",
+    "source_score": 1,
+    "page_number": 9,
+    "original_question_number": 8,
+    "explanation": "Source PDF Page 9, Question 8. Accepted answer: D. Yet Another Resource Negotiator."
+  },
+  "q129": {
+    "correct_answer": "A",
+    "correct_option_text": "Batch aggregation",
+    "accepted_answer_raw": "A Batch aggregation",
+    "source_score": 1,
+    "page_number": 9,
+    "original_question_number": 9,
+    "explanation": "Source PDF Page 9, Question 9. Accepted answer: A Batch aggregation."
+  },
+  "q130": {
+    "correct_answer": "B",
+    "correct_option_text": "BCube Source Routing -1",
+    "accepted_answer_raw": "B. BCvbe Source Routing",
+    "source_score": 1,
+    "page_number": 9,
+    "original_question_number": 10,
+    "explanation": "Source PDF Page 9, Question 10. Accepted answer: B. BCvbe Source Routing."
+  },
+  "q131": {
+    "correct_answer": "A",
+    "correct_option_text": "110T devices generate a bulk amount of small messages containing sensor data",
+    "accepted_answer_raw": "A 110T devices generate a bulk amount of small messages containing sensor data",
+    "source_score": 1,
+    "page_number": 9,
+    "original_question_number": 11,
+    "explanation": "Source PDF Page 9, Question 11. Accepted answer: A 110T devices generate a bulk amount of small messages containing sensor data."
+  },
+  "q132": {
+    "correct_answer": "C",
+    "correct_option_text": "Programmable infrastructure and workload management",
+    "accepted_answer_raw": "C. Programmable infrastructure and workload management",
+    "source_score": 1,
+    "page_number": 9,
+    "original_question_number": 12,
+    "explanation": "Source PDF Page 9, Question 12. Accepted answer: C. Programmable infrastructure and workload management."
+  },
+  "q133": {
+    "correct_answer": "A",
+    "correct_option_text": "By applying wildcard-based rule combination",
+    "accepted_answer_raw": "A By applying wildcard-based rule combination",
+    "source_score": 1,
+    "page_number": 9,
+    "original_question_number": 13,
+    "explanation": "Source PDF Page 9, Question 13. Accepted answer: A By applying wildcard-based rule combination."
+  },
+  "q134": {
+    "correct_answer": "B",
+    "correct_option_text": "By using rule-based forwarding policies",
+    "accepted_answer_raw": "B. By using rule-based forwarding policies",
+    "source_score": 1,
+    "page_number": 9,
+    "original_question_number": 14,
+    "explanation": "Source PDF Page 9, Question 14. Accepted answer: B. By using rule-based forwarding policies."
+  },
+  "q135": {
+    "correct_answer": "C",
+    "correct_option_text": "It uses a virtualized platform for dynamic, real- time system control",
+    "accepted_answer_raw": "C. It uses a virtualized platform for dynamic, real• system control",
+    "source_score": 1,
+    "page_number": 9,
+    "original_question_number": 15,
+    "explanation": "Source PDF Page 9, Question 15. Accepted answer: C. It uses a virtualized platform for dynamic, real• system control."
+  },
+  "q136": {
+    "correct_answer": "B",
+    "correct_option_text": "Layer 2",
+    "accepted_answer_raw": "B. Layer 2",
+    "source_score": 1,
+    "page_number": 10,
+    "original_question_number": 1,
+    "explanation": "Source PDF Page 10, Question 1. Accepted answer: B. Layer 2."
+  },
+  "q137": {
+    "correct_answer": "C",
+    "correct_option_text": "Ordinary and emergent data streams",
+    "accepted_answer_raw": "C. Ordinary and emergent data streams",
+    "source_score": 1,
+    "page_number": 10,
+    "original_question_number": 2,
+    "explanation": "Source PDF Page 10, Question 2. Accepted answer: C. Ordinary and emergent data streams."
+  },
+  "q138": {
+    "correct_answer": "A",
+    "correct_option_text": "Delay-constrained emergent services",
+    "accepted_answer_raw": "A Delay-constrained emergent services",
+    "source_score": 1,
+    "page_number": 10,
+    "original_question_number": 3,
+    "explanation": "Source PDF Page 10, Question 3. Accepted answer: A Delay-constrained emergent services."
+  },
+  "q139": {
+    "correct_answer": "D",
+    "correct_option_text": "Resilience",
+    "accepted_answer_raw": "D. Resilience",
+    "source_score": 1,
+    "page_number": 10,
+    "original_question_number": 4,
+    "explanation": "Source PDF Page 10, Question 4. Accepted answer: D. Resilience."
+  },
+  "q140": {
+    "correct_answer": "B",
+    "correct_option_text": "Elevation of privilege",
+    "accepted_answer_raw": "B. Elevation of privilege",
+    "source_score": 1,
+    "page_number": 10,
+    "original_question_number": 5,
+    "explanation": "Source PDF Page 10, Question 5. Accepted answer: B. Elevation of privilege."
+  },
+  "q141": {
+    "correct_answer": "C",
+    "correct_option_text": "System Builder",
+    "accepted_answer_raw": "C. System Builder",
+    "source_score": 1,
+    "page_number": 10,
+    "original_question_number": 6,
+    "explanation": "Source PDF Page 10, Question 6. Accepted answer: C. System Builder."
+  },
+  "q142": {
+    "correct_answer": "A",
+    "correct_option_text": "Lightweight symmetric key cryptography",
+    "accepted_answer_raw": "A Lightweight symmetric key cryptography",
+    "source_score": 1,
+    "page_number": 10,
+    "original_question_number": 7,
+    "explanation": "Source PDF Page 10, Question 7. Accepted answer: A Lightweight symmetric key cryptography."
+  },
+  "q143": {
+    "correct_answer": "B",
+    "correct_option_text": "Data-at-Rest, Data-in-Use, and Data-in-Transit",
+    "accepted_answer_raw": "B. Data-at-Rest, Data-in-use, and Data-in-Transit",
+    "source_score": 1,
+    "page_number": 10,
+    "original_question_number": 8,
+    "explanation": "Source PDF Page 10, Question 8. Accepted answer: B. Data-at-Rest, Data-in-use, and Data-in-Transit."
+  },
+  "q144": {
+    "correct_answer": "B",
+    "correct_option_text": "NIST SP 800-82",
+    "accepted_answer_raw": "B. NIST SP 800-82",
+    "source_score": 1,
+    "page_number": 10,
+    "original_question_number": 9,
+    "explanation": "Source PDF Page 10, Question 9. Accepted answer: B. NIST SP 800-82."
+  },
+  "q145": {
+    "correct_answer": "D",
+    "correct_option_text": "Transport",
+    "accepted_answer_raw": "D. Transport",
+    "source_score": 1,
+    "page_number": 10,
+    "original_question_number": 10,
+    "explanation": "Source PDF Page 10, Question 10. Accepted answer: D. Transport."
+  },
+  "q146": {
+    "correct_answer": "A",
+    "correct_option_text": "Radiation and toxic gases",
+    "accepted_answer_raw": "A Radiation and toxic gases",
+    "source_score": 1,
+    "page_number": 10,
+    "original_question_number": 11,
+    "explanation": "Source PDF Page 10, Question 11. Accepted answer: A Radiation and toxic gases."
+  },
+  "q147": {
+    "correct_answer": "C",
+    "correct_option_text": "QR code",
+    "accepted_answer_raw": "C. QR code",
+    "source_score": 1,
+    "page_number": 10,
+    "original_question_number": 12,
+    "explanation": "Source PDF Page 10, Question 12. Accepted answer: C. QR code."
+  },
+  "q148": {
+    "correct_answer": "B",
+    "correct_option_text": "NFC chip",
+    "accepted_answer_raw": "B. NFCchip",
+    "source_score": 1,
+    "page_number": 10,
+    "original_question_number": 13,
+    "explanation": "Source PDF Page 10, Question 13. Accepted answer: B. NFCchip."
+  },
+  "q149": {
+    "correct_answer": "A",
+    "correct_option_text": "Flexibility",
+    "accepted_answer_raw": "A Flexibility",
+    "source_score": 1,
+    "page_number": 10,
+    "original_question_number": 14,
+    "explanation": "Source PDF Page 10, Question 14. Accepted answer: A Flexibility."
+  },
+  "q150": {
+    "correct_answer": "B",
+    "correct_option_text": "Firewall",
+    "accepted_answer_raw": "B. Firewall 11",
+    "source_score": 1,
+    "page_number": 10,
+    "original_question_number": 15,
+    "explanation": "Source PDF Page 10, Question 15. Accepted answer: B. Firewall 11."
+  },
+  "q151": {
+    "correct_answer": "B",
+    "correct_option_text": "Sensing Sending Processing Storing -4 -4 -4 Learning",
+    "accepted_answer_raw": "B. Sensing Sending Processing Storing -9 -+ -+ Learning",
+    "source_score": 1,
+    "page_number": 11,
+    "original_question_number": 1,
+    "explanation": "Source PDF Page 11, Question 1. Accepted answer: B. Sensing Sending Processing Storing -9 -+ -+ Learning."
+  },
+  "q152": {
+    "correct_answer": "B",
+    "correct_option_text": "Body temperature, cough rate, and heart rate",
+    "accepted_answer_raw": "B. Body temperature, cough rate, and heart rate",
+    "source_score": 1,
+    "page_number": 11,
+    "original_question_number": 2,
+    "explanation": "Source PDF Page 11, Question 2. Accepted answer: B. Body temperature, cough rate, and heart rate."
+  },
+  "q153": {
+    "correct_answer": "C",
+    "correct_option_text": "Designing scalable algorithms without compromising security",
+    "accepted_answer_raw": "C. Designing scalable algorithms without compromising security",
+    "source_score": 1,
+    "page_number": 11,
+    "original_question_number": 3,
+    "explanation": "Source PDF Page 11, Question 3. Accepted answer: C. Designing scalable algorithms without compromising security."
+  },
+  "q154": {
+    "correct_answer": "C",
+    "correct_option_text": "Autonomy",
+    "accepted_answer_raw": "C. Autonomy",
+    "source_score": 1,
+    "page_number": 11,
+    "original_question_number": 4,
+    "explanation": "Source PDF Page 11, Question 4. Accepted answer: C. Autonomy."
+  },
+  "q155": {
+    "correct_answer": "B",
+    "correct_option_text": "WiMAX, 8G, and 4G for wireless communication and Ethernet for wired communication",
+    "accepted_answer_raw": "B. WiMAX, 86, and 46 for wireless communication and Ethernet for wired communication",
+    "source_score": 0,
+    "page_number": 11,
+    "original_question_number": 5,
+    "explanation": "Source PDF Page 11, Question 5. Accepted answer: B. WiMAX, 86, and 46 for wireless communication and Ethernet for wired communication."
+  },
+  "q156": {
+    "correct_answer": "C",
+    "correct_option_text": "Meter data management system",
+    "accepted_answer_raw": "C. Meter data management system",
+    "source_score": 1,
+    "page_number": 11,
+    "original_question_number": 6,
+    "explanation": "Source PDF Page 11, Question 6. Accepted answer: C. Meter data management system."
+  },
+  "q157": {
+    "correct_answer": "B",
+    "correct_option_text": "Protection against stock-outs",
+    "accepted_answer_raw": "B. Protection against stock-outs",
+    "source_score": 1,
+    "page_number": 11,
+    "original_question_number": 7,
+    "explanation": "Source PDF Page 11, Question 7. Accepted answer: B. Protection against stock-outs."
+  },
+  "q158": {
+    "correct_answer": "C",
+    "correct_option_text": "It has an onboard battery to power the IC but does not have an active transmitter",
+    "accepted_answer_raw": "C. It has an onboard battery to power the IC but does not have an active transmitter",
+    "source_score": 1,
+    "page_number": 11,
+    "original_question_number": 8,
+    "explanation": "Source PDF Page 11, Question 8. Accepted answer: C. It has an onboard battery to power the IC but does not have an active transmitter."
+  },
+  "q159": {
+    "correct_answer": "A",
+    "correct_option_text": "Inventory levels, expiration dates, item location, and forecast demand",
+    "accepted_answer_raw": "A. Inventory levels, expiration dates, item location, and forecast demand",
+    "source_score": 1,
+    "page_number": 11,
+    "original_question_number": 9,
+    "explanation": "Source PDF Page 11, Question 9. Accepted answer: A. Inventory levels, expiration dates, item location, and forecast demand."
+  },
+  "q160": {
+    "correct_answer": "B",
+    "correct_option_text": "Ratio of time of functioning to the total time",
+    "accepted_answer_raw": "B. Ratio of time of functioning to the total time",
+    "source_score": 1,
+    "page_number": 11,
+    "original_question_number": 10,
+    "explanation": "Source PDF Page 11, Question 10. Accepted answer: B. Ratio of time of functioning to the total time."
+  },
+  "q161": {
+    "correct_answer": "B",
+    "correct_option_text": "To divide the network into smaller parts and explicitly enforce security policies",
+    "accepted_answer_raw": "B. To divide the network into smaller parts and explicitly enforce security policies",
+    "source_score": 1,
+    "page_number": 11,
+    "original_question_number": 11,
+    "explanation": "Source PDF Page 11, Question 11. Accepted answer: B. To divide the network into smaller parts and explicitly enforce security policies."
+  },
+  "q162": {
+    "correct_answer": "C",
+    "correct_option_text": "By increasing operating efficiency and reducing maintenance cost",
+    "accepted_answer_raw": "C. By increasing operating efficiency and reducing maintenance cost",
+    "source_score": 1,
+    "page_number": 11,
+    "original_question_number": 12,
+    "explanation": "Source PDF Page 11, Question 12. Accepted answer: C. By increasing operating efficiency and reducing maintenance cost."
+  },
+  "q163": {
+    "correct_answer": "A",
+    "correct_option_text": "Determining the exact square-foot utilization of office space",
+    "accepted_answer_raw": "A. Determining the exact square-foot utilization of office space",
+    "source_score": 1,
+    "page_number": 11,
+    "original_question_number": 13,
+    "explanation": "Source PDF Page 11, Question 13. Accepted answer: A. Determining the exact square-foot utilization of office space."
+  },
+  "q164": {
+    "correct_answer": "C",
+    "correct_option_text": "Transponders and beacons",
+    "accepted_answer_raw": "C. Transponders and beacons",
+    "source_score": 1,
+    "page_number": 11,
+    "original_question_number": 14,
+    "explanation": "Source PDF Page 11, Question 14. Accepted answer: C. Transponders and beacons."
+  },
+  "q165": {
+    "correct_answer": "A",
+    "correct_option_text": "Secure web gateway",
+    "accepted_answer_raw": "A. Secure web gateway",
+    "source_score": 1,
+    "page_number": 11,
+    "original_question_number": 15,
+    "explanation": "Source PDF Page 11, Question 15. Accepted answer: A. Secure web gateway."
+  },
+  "q166": {
+    "correct_answer": "C",
+    "correct_option_text": "Data analysis is performed through extraction, transform, and load processes",
+    "accepted_answer_raw": "C. Data analysis is performed through extraction, transform, and load processes",
+    "source_score": 0,
+    "page_number": 12,
+    "original_question_number": 1,
+    "explanation": "Source PDF Page 12, Question 1. Accepted answer: C. Data analysis is performed through extraction, transform, and load processes."
+  },
+  "q167": {
+    "correct_answer": "B",
+    "correct_option_text": "Address real-time issues and reduce equipment breakdown",
+    "accepted_answer_raw": "B. Address real-time issues and reduce equipment breakdown",
+    "source_score": 1,
+    "page_number": 12,
+    "original_question_number": 2,
+    "explanation": "Source PDF Page 12, Question 2. Accepted answer: B. Address real-time issues and reduce equipment breakdown."
+  },
+  "q168": {
+    "correct_answer": "C",
+    "correct_option_text": "By tracking product locations through sensors or RFID tags",
+    "accepted_answer_raw": "C. By tracking product locations through sensors or RFID tags",
+    "source_score": 1,
+    "page_number": 12,
+    "original_question_number": 3,
+    "explanation": "Source PDF Page 12, Question 3. Accepted answer: C. By tracking product locations through sensors or RFID tags."
+  },
+  "q169": {
+    "correct_answer": "A",
+    "correct_option_text": "Equipment, material, process, environment, and workers",
+    "accepted_answer_raw": "A Equipment, material, process, environment, and workers",
+    "source_score": 1,
+    "page_number": 12,
+    "original_question_number": 4,
+    "explanation": "Source PDF Page 12, Question 4. Accepted answer: A Equipment, material, process, environment, and workers."
+  },
+  "q170": {
+    "correct_answer": "A",
+    "correct_option_text": "Adverse Drug Reactions, effects of pharmaceutical excipients, and allergies",
+    "accepted_answer_raw": "A Adverse Drug Reactions, effects of pharmaceutical excipients, and allergies",
+    "source_score": 1,
+    "page_number": 12,
+    "original_question_number": 5,
+    "explanation": "Source PDF Page 12, Question 5. Accepted answer: A Adverse Drug Reactions, effects of pharmaceutical excipients, and allergies."
+  },
+  "q171": {
+    "correct_answer": "B",
+    "correct_option_text": "SCADA",
+    "accepted_answer_raw": "B. SCADA",
+    "source_score": 1,
+    "page_number": 12,
+    "original_question_number": 6,
+    "explanation": "Source PDF Page 12, Question 6. Accepted answer: B. SCADA."
+  },
+  "q172": {
+    "correct_answer": "C",
+    "correct_option_text": "Sixth Generation",
+    "accepted_answer_raw": "C. Sixth Generation",
+    "source_score": 1,
+    "page_number": 12,
+    "original_question_number": 7,
+    "explanation": "Source PDF Page 12, Question 7. Accepted answer: C. Sixth Generation."
+  },
+  "q173": {
+    "correct_answer": "B",
+    "correct_option_text": "By optimizing the use of seed, fertilizer, and water",
+    "accepted_answer_raw": "B. By optimizing the use of seed, fertilizer, and water",
+    "source_score": 1,
+    "page_number": 12,
+    "original_question_number": 8,
+    "explanation": "Source PDF Page 12, Question 8. Accepted answer: B. By optimizing the use of seed, fertilizer, and water."
+  },
+  "q174": {
+    "correct_answer": "B",
+    "correct_option_text": "They can observe miles of transmission lines in a single flight",
+    "accepted_answer_raw": "B. They can observe miles of transmission lines in a single flight",
+    "source_score": 1,
+    "page_number": 12,
+    "original_question_number": 9,
+    "explanation": "Source PDF Page 12, Question 9. Accepted answer: B. They can observe miles of transmission lines in a single flight."
+  },
+  "q175": {
+    "correct_answer": "A",
+    "correct_option_text": "Regular surface surveys for optimized blast design",
+    "accepted_answer_raw": "A Regular surface surveys for optimized blast design",
+    "source_score": 1,
+    "page_number": 12,
+    "original_question_number": 10,
+    "explanation": "Source PDF Page 12, Question 10. Accepted answer: A Regular surface surveys for optimized blast design."
+  },
+  "q176": {
+    "correct_answer": "A",
+    "correct_option_text": "Delivery of medicines, vaccines, defibrillators, and snake-bite serum",
+    "accepted_answer_raw": "A Delivery of medicines, vaccines, defibrillators, and snake- bite serum",
+    "source_score": 1,
+    "page_number": 12,
+    "original_question_number": 11,
+    "explanation": "Source PDF Page 12, Question 11. Accepted answer: A Delivery of medicines, vaccines, defibrillators, and snake- bite serum."
+  },
+  "q177": {
+    "correct_answer": "A",
+    "correct_option_text": "Carbon storage in biomass",
+    "accepted_answer_raw": "A Carbon storage in biomass",
+    "source_score": 0,
+    "page_number": 12,
+    "original_question_number": 12,
+    "explanation": "Source PDF Page 12, Question 12. Accepted answer: A Carbon storage in biomass."
+  },
+  "q178": {
+    "correct_answer": "B",
+    "correct_option_text": "Sensors, actuators, networks, interoperability, automated fault detection and maintenance, and feedback control",
+    "accepted_answer_raw": "B. Sensors, actuators, networks, interoperability, automated fault detection and maintenance, and feedback control",
+    "source_score": 1,
+    "page_number": 12,
+    "original_question_number": 13,
+    "explanation": "Source PDF Page 12, Question 13. Accepted answer: B. Sensors, actuators, networks, interoperability, automated fault detection and maintenance, and feedback control."
+  },
+  "q179": {
+    "correct_answer": "B",
+    "correct_option_text": "Semtech LoRa devices and LoRaWAN",
+    "accepted_answer_raw": "B. Semtech LoRa devices and LoRaWAN",
+    "source_score": 1,
+    "page_number": 12,
+    "original_question_number": 14,
+    "explanation": "Source PDF Page 12, Question 14. Accepted answer: B. Semtech LoRa devices and LoRaWAN."
+  },
+  "q180": {
+    "correct_answer": "C",
+    "correct_option_text": "Ability to obtain a holistic view of the conveyor- belt line and localize defects",
+    "accepted_answer_raw": "C. Ability to obtain a holistic view of the conveyor-belt line and localize defects",
+    "source_score": 1,
+    "page_number": 12,
+    "original_question_number": 15,
+    "explanation": "Source PDF Page 12, Question 15. Accepted answer: C. Ability to obtain a holistic view of the conveyor-belt line and localize defects. Note: Verified from graded submission: user selected (C), evaluated as 'Yes, The answer is correct, Score: 1'."
+  }
+}

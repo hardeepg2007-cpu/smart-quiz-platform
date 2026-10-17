@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Results & Performance Analytics – Smart Quiz Platform</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-custom sticky-top">
+    <div class="container">
+      <a class="navbar-brand d-flex align-items-center fw-bold" href="/">
+        <span class="brand-icon"><i class="bi bi-mortarboard-fill"></i></span>
+        <span>Smart Quiz Platform</span>
+      </a>
+      <div class="d-flex align-items-center gap-3">
+        <button id="themeToggleBtn" class="btn btn-sm btn-outline-secondary rounded-pill px-3" title="Toggle Theme">
+          <i class="bi bi-moon-stars-fill" id="themeIcon"></i>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container py-5 flex-grow-1">
+    
+    <!-- Hero Score Card -->
+    <div class="card card-custom p-4 p-md-5 mb-4 text-center">
+      <div class="mb-3">
+        <span id="passStatusBadge" class="badge px-4 py-2 rounded-pill fs-6 fw-bold">
+          Evaluating...
+        </span>
+      </div>
+      <h1 class="display-3 fw-bold text-primary mb-2" id="scoreDisplay">-- / --</h1>
+      <h4 class="text-muted fw-normal mb-3" id="percentageDisplay">--%</h4>
+      <p class="text-muted max-w-600 mx-auto mb-4" id="feedbackMessage">
+        Calculating detailed performance metrics...
+      </p>
+
+      <div class="d-flex flex-wrap justify-content-center gap-3">
+        <a href="/review/{{ attempt_id }}" class="btn btn-primary btn-lg rounded-pill px-4 shadow-sm">
+          <i class="bi bi-card-checklist me-1"></i> Detailed Answer Review
+        </a>
+        <a href="/api/export/{{ attempt_id }}" class="btn btn-outline-success btn-lg rounded-pill px-4">
+          <i class="bi bi-download me-1"></i> Download Results (CSV)
+        </a>
+        <button class="btn btn-outline-secondary btn-lg rounded-pill px-4" onclick="window.print()">
+          <i class="bi bi-printer me-1"></i> Print Results
+        </button>
+        <a href="/" class="btn btn-outline-primary btn-lg rounded-pill px-4">
+          <i class="bi bi-arrow-repeat me-1"></i> Take Another Quiz
+        </a>
+      </div>
+    </div>
+
+    <!-- Quick Stats Grid -->
+    <div class="row g-4 mb-4">
+      <div class="col-md-3 col-sm-6">
+        <div class="stat-card card-custom">
+          <div class="stat-icon bg-primary-subtle text-primary">
+            <i class="bi bi-clipboard-check"></i>
+          </div>
+          <div>
+            <div class="text-muted small">Attempted</div>
+            <h3 class="fw-bold mb-0" id="statAttempted">--</h3>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6">
+        <div class="stat-card card-custom">
+          <div class="stat-icon bg-success-subtle text-success">
+            <i class="bi bi-check-circle-fill"></i>
+          </div>
+          <div>
+            <div class="text-muted small">Correct</div>
+            <h3 class="fw-bold mb-0 text-success" id="statCorrect">--</h3>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6">
+        <div class="stat-card card-custom">
+          <div class="stat-icon bg-danger-subtle text-danger">
+            <i class="bi bi-x-circle-fill"></i>
+          </div>
+          <div>
+            <div class="text-muted small">Incorrect</div>
+            <h3 class="fw-bold mb-0 text-danger" id="statIncorrect">--</h3>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6">
+        <div class="stat-card card-custom">
+          <div class="stat-icon bg-secondary-subtle text-secondary">
+            <i class="bi bi-hourglass-split"></i>
+          </div>
+          <div>
+            <div class="text-muted small">Time Taken</div>
+            <h3 class="fw-bold mb-0" id="statTimeTaken">--</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Detailed Performance Charts -->
+    <div class="row g-4 mb-4">
+      <div class="col-lg-5">
+        <div class="card card-custom p-4 h-100">
+          <h5 class="fw-bold mb-3"><i class="bi bi-pie-chart-fill text-primary me-2"></i>Accuracy & Breakdown</h5>
+          <div class="d-flex justify-content-center align-items-center mb-3" style="min-height: 250px;">
+            <canvas id="accuracyChart" style="max-height: 250px;"></canvas>
+          </div>
+          <div class="text-center small text-muted">
+            Accuracy on attempted questions: <strong id="accuracyValue" class="text-body">--%</strong>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-7">
+        <div class="card card-custom p-4 h-100">
+          <h5 class="fw-bold mb-3"><i class="bi bi-bar-chart-fill text-primary me-2"></i>Performance by Week / Page</h5>
+          <div style="min-height: 250px;">
+            <canvas id="pageBarChart" style="max-height: 250px;"></canvas>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Weak Areas / Actionable Improvement List -->
+    <div class="card card-custom p-4 mb-4" id="weakAreasCard">
+      <h5 class="fw-bold mb-3 text-danger"><i class="bi bi-exclamation-octagon-fill me-2"></i>Questions Needing Practice</h5>
+      <p class="text-muted small mb-3">The following questions were answered incorrectly in this attempt. Review these topics to sharpen your knowledge:</p>
+      <div class="list-group list-group-flush" id="weakTopicsList">
+        <!-- Dynamic list of missed questions -->
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Footer -->
+  <footer class="py-4 border-top mt-auto text-center text-muted small">
+    <div class="container">
+      Smart Quiz Platform &bull; Accurate Server-Evaluated Performance
+    </div>
+  </footer>
+
+  <script>
+    const ATTEMPT_ID = "{{ attempt_id }}";
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="{{ url_for('static', filename='js/results.js') }}"></script>
+</body>
+</html>
